@@ -1,0 +1,107 @@
+const CUSTOM_TOOLTIP_ITEMS = [
+    'redomesticate:rotten_apple',
+    'redomesticate:sinister_carrot',
+    'redomesticate:deed_of_ownership',
+    'redomesticate:wayward_lantern',
+    'redomesticate:drum',
+    '#redomesticate:pet_beds'
+];
+
+ItemEvents.modifyTooltips(event => {
+    for (const item of CUSTOM_TOOLTIP_ITEMS) {
+        event.modify(item, { shift: false }, text => {
+            text.insert(1, Text.join([
+                Text.darkGray("Hold ["),
+                Text.gray("Shift"),
+                Text.darkGray("] for Item information")
+            ]))
+        })
+    }
+    event.modify('redomesticate:rotten_apple', { shift: true }, text => {
+        text.insert(1, Text.join([
+            Text.darkGray("Hold ["),
+            Text.white("Shift"),
+            Text.darkGray("] for Item information")
+        ]))
+        text.add(Text.empty())
+        text.add([
+            Text.green("- Chance to form if an apple item despawns on the ground."),
+            Text.green("- Fed to a horse in order to turn it into a zombie horse.")
+        ])
+    })
+
+    event.modify('redomesticate:sinister_carrot', { shift: true }, text => {
+        text.insert(1, Text.join([
+            Text.darkGray("Hold ["),
+            Text.white("Shift"),
+            Text.darkGray("] for Item information")
+        ]))
+        text.add(Text.empty())
+        text.add([
+            Text.green("- Rarely found as loot in Woodland Mansions"),
+            Text.green("- Fed to a zombie horse in order to turn it into a skeleton horse.")
+        ])
+    })
+
+    event.modify('redomesticate:deed_of_ownership', { shift: true }, text => {
+        text.insert(1, Text.join([
+            Text.darkGray("Hold ["),
+            Text.white("Shift"),
+            Text.darkGray("] for Item information")
+        ]))
+        text.add(Text.empty())
+        text.add([
+            Text.green("- Purchased from the Animal Tamer villager."),
+            Text.green("- Right click on your tamed pet to bind it to the deed."),
+            Text.green("- Give the bounded deed to another player to transfer ownership of the pet.")
+
+        ])
+    })
+
+    event.modify('redomesticate:wayward_lantern', { shift: true }, text => {
+        text.insert(1, Text.join([
+            Text.darkGray("Hold ["),
+            Text.white("Shift"),
+            Text.darkGray("] for Item information")
+        ]))
+        text.add(Text.empty())
+        text.add([
+            Text.yellow("- Can be used as decoration."),
+            Text.green("- Pets in 'follow' mode that are within unloaded chunks find their way to the nearest Wayward lantern."),
+            Text.green("- That means you can no longer lose pets on death thousands of blocks away.")
+
+        ])
+    })
+
+    event.modify('redomesticate:drum', { shift: true }, text => {
+        text.insert(1, Text.join([
+            Text.darkGray("Hold ["),
+            Text.white("Shift"),
+            Text.darkGray("] for Item information")
+        ]))
+        text.add(Text.empty())
+        text.add([
+            Text.green("- Order all tamed mobs to follow, stay or wander depending on the beat."),
+            Text.green("- Can be used with redstone, commanding tamed mobs of the original placer.")
+
+        ])
+    })
+
+    event.modify('#redomesticate:pet_beds', { shift: true }, text => {
+        text.insert(1, Text.join([
+            Text.darkGray("Hold ["),
+            Text.white("Shift"),
+            Text.darkGray("] for Item information")
+        ]))
+        text.add(Text.empty())
+        text.add([
+            Text.green("- Move one of your tamed mobs to a pet bed to bind its respawn point."),
+            Text.green("- Respawn point is set when either ZZZ particles appear or when the pet bed location appears when looked at."),
+            Text.green("- Mobs respawn at dawn.")
+
+        ])
+    })
+
+
+
+})

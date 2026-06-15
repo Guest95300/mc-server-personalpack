@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 0,
+    "description": "Boundless Quest Pack: AugustMC"
+  },
+  "boundless": {
+    "icon_path": "minecraft:iron_pickaxe",
+    "enabled": true
+  }
+}

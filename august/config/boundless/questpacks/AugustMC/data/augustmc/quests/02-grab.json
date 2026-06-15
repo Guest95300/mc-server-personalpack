@@ -1,0 +1,13 @@
+{
+  "id": "grab",
+  "name": "Grab",
+  "icon": "simulated:iron_handle",
+  "description": "Sneak then /ghold Right click \u0026 Left click/x to /wgrab a block./x\n\nGrabbing weak blocks and /gwalking backwards/x will allow you to /wsimulate them./x\n\n/lTry it with a chest./x\n\nSimulated objects can be grabbed without sneaking.",
+  "category": "main",
+  "sub-category": "controls",
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false
+}

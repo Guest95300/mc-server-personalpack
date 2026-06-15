@@ -1,0 +1,32 @@
+{
+  "notes": [
+    "Starter export from AMI pack-author mode.",
+    "This export intentionally matches exact item IDs first; broaden to mods, paths, or tags after review."
+  ],
+  "rules": [
+    {
+      "match": {
+        "ids": [
+          "cdmoveset:s_diamond_sword",
+          "cdmoveset:s_golden_sword",
+          "cdmoveset:s_iron_sword",
+          "cdmoveset:s_netherite_sword",
+          "cdmoveset:s_stone_sword",
+          "cdmoveset:s_wooden_sword",
+          "create:cardboard_sword",
+          "minecraft:diamond_sword",
+          "minecraft:golden_sword",
+          "minecraft:iron_sword",
+          "minecraft:netherite_sword",
+          "minecraft:stone_sword",
+          "minecraft:wooden_sword"
+        ]
+      },
+      "category": "tools",
+      "subcategory": "melee",
+      "metadata": {
+        "variantGroup": "tools"
+      }
+    }
+  ]
+}

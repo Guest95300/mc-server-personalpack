@@ -1,0 +1,17 @@
+filename = 'Lift-n-Load-1.21.1-1.0b.jar'
+name = "Create: Lift n' Load |  Simulated/Aeronautics Addon"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0b'
+
+[download]
+hash = '188ec26427660f3845792b04aecd49d41d3cb4c7b7488cbcbbe71f2dd2b835d1e21938febcd3fb1c740550a9f1ee690dc9dd13be0315f0523ecb6dc7258818e7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aJR8vXL6/versions/lymRCW9X/Lift-n-Load-1.21.1-1.0b.jar'
+
+[update.modrinth]
+mod-id = 'aJR8vXL6'
+version = 'lymRCW9X'

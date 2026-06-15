@@ -1,0 +1,17 @@
+filename = 'sablebarehanded-neoforge-1.21.1-1.3.1.jar'
+name = 'Barehanded'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.1'
+
+[download]
+hash = '2f9b3faad0f2689b9a5fadb211f0b750db85faca4590ef59926818a6ac85d4ee109785fd17a82b5a5d65a96ddf5d8feb4d31278e6cad701fd64a7a980d355ba8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NnSJuVRa/versions/mHBscCfu/sablebarehanded-neoforge-1.21.1-1.3.1.jar'
+
+[update.modrinth]
+mod-id = 'NnSJuVRa'
+version = 'mHBscCfu'

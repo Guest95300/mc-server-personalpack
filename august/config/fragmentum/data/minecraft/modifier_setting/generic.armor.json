@@ -1,0 +1,20 @@
+{
+  "attributeType": "minecraft:generic.armor",
+  "conditions": {
+    "affixes": {
+      "count": {},
+      "matches": {},
+      "values": []
+    },
+    "entity": [
+      "minecraft:creeper"
+    ],
+    "permission": "blacklist",
+    "tier": {}
+  },
+  "enable": true,
+  "modifier": {
+    "operation": "add_value",
+    "value": 4.0
+  }
+}

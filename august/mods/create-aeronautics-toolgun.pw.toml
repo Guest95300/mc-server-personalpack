@@ -1,0 +1,17 @@
+filename = 'create_aeronautics_toolgun-0.2.2.jar'
+name = 'Create Aeronautics: Toolgun'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.2.2'
+
+[download]
+hash = '6f6bc394643b4c4c901ad292f96fc9c74ea5a26b9d3b46cc964e177f75e47dd21f72b9c52980e081110a3d26deda520376f1ae25c1597ffa79ef5b45d330b3f3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5fUBLqeW/versions/cq5Kx7Cn/create_aeronautics_toolgun-0.2.2.jar'
+
+[update.modrinth]
+mod-id = '5fUBLqeW'
+version = 'cq5Kx7Cn'

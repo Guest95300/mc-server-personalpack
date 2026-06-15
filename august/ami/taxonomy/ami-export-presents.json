@@ -1,0 +1,39 @@
+{
+  "notes": [
+    "Starter export from AMI pack-author mode.",
+    "This export intentionally matches exact item IDs first; broaden to mods, paths, or tags after review."
+  ],
+  "rules": [
+    {
+      "match": {
+        "ids": [
+          "supplementaries:present_black",
+          "supplementaries:present_blue",
+          "supplementaries:present_brown",
+          "supplementaries:present_cyan",
+          "supplementaries:present_gray",
+          "supplementaries:present_green",
+          "supplementaries:present_light_blue",
+          "supplementaries:present_light_gray",
+          "supplementaries:present_lime",
+          "supplementaries:present_magenta",
+          "supplementaries:present_orange",
+          "supplementaries:present_pink",
+          "supplementaries:present_purple",
+          "supplementaries:present_red",
+          "supplementaries:present_white",
+          "supplementaries:present_yellow"
+        ]
+      },
+      "category": "decoration",
+      "subcategory": "none",
+      "metadata": {
+        "collapseFamily": "supplementaries:presents",
+        "variantCollapseMode": "default_collapsed",
+        "variantGroup": "block",
+        "blocksMaterial": "other_building",
+        "collapseLabel": "Presents"
+      }
+    }
+  ]
+}

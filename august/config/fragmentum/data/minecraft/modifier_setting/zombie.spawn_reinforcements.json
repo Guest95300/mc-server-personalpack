@@ -1,0 +1,20 @@
+{
+  "attributeType": "minecraft:zombie.spawn_reinforcements",
+  "conditions": {
+    "affixes": {
+      "count": {},
+      "matches": {},
+      "values": []
+    },
+    "entity": [
+      "minecraft:creeper"
+    ],
+    "permission": "blacklist",
+    "tier": {}
+  },
+  "enable": false,
+  "modifier": {
+    "operation": "add_value",
+    "value": 0.0
+  }
+}

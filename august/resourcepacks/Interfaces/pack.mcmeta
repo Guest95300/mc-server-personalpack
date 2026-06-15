@@ -1,0 +1,63 @@
+{
+    "pack": {
+		"description": "Complete GUI overhaul\n§cBeta V0.8.2 §8| By Shrimpsnail",
+
+        "pack_format": 15, 
+        "supported_formats": [15, 84], 
+
+        "min_format": 15, 
+        "max_format": 84
+    },
+    "overlays": {
+        "entries": [
+            {
+				"directory": "_1.21_lang",
+                "formats": [18, 100], 
+                "min_format": 18, 
+                "max_format": 100
+            },
+			{
+				"directory": "_1.20.2_shaders",
+                "formats": [42, 56], 
+                "min_format": 42, 
+                "max_format": 56
+            },
+			{
+				"directory": "_1.21.1_shader_fix",
+                "formats": [34, 41], 
+                "min_format": 34, 
+                "max_format": 41
+            },
+			{
+				"directory": "_1.21.2-.4_json_fix",
+                "formats": [42, 46], 
+                "min_format": 42, 
+                "max_format": 46
+            },
+            {
+				"directory": "_1.21.5_shader_fix",
+                "formats": [54, 56], 
+                "min_format": 54, 
+                "max_format": 56
+            },
+			{
+				"directory": "_1.21.6_shaders",
+                "formats": [57, 100], 
+                "min_format": 57, 
+                "max_format": 100
+            },
+			{
+				"directory": "_26.1_shaders",
+                "formats": [84, 100], 
+                "min_format": 84, 
+                "max_format": 100
+            }
+        ]
+    },
+	"language":{
+		"aa_dev":{
+			"name":"Developer§a",
+			"region":"Immersive Interfaces"
+		}
+	}
+}

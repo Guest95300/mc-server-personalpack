@@ -1,0 +1,17 @@
+filename = 'nicer-skies-1.4.1+1.21.1.jar'
+name = 'Nicer Skies'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Nicer Skies 1.4.1 for 1.21.1'
+
+[download]
+hash = '101d38784f50116f58044617acf1ace56e408ce7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5616474
+project-id = 736884

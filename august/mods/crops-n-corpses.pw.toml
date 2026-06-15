@@ -1,0 +1,17 @@
+filename = 'cnc-0.3.2.jar'
+name = "Crops 'n' Corpses"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.3.2'
+
+[download]
+hash = '568000ff231efa1d2ea98726daa366ae89380729968cb194c838030a48736b25d724e12e90e5ce081b3a33a45e933bb5ca034a89ccbdddd6cea8b711ee15b513'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9TcyuqmE/versions/MFHjlybq/cnc-0.3.2.jar'
+
+[update.modrinth]
+mod-id = '9TcyuqmE'
+version = 'MFHjlybq'

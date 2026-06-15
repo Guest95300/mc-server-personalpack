@@ -1,0 +1,8 @@
+{
+  "id": "building",
+  "category": "main",
+  "name": "Building",
+  "icon": "minecraft:oak_planks",
+  "order": 1,
+  "default_open": true
+}

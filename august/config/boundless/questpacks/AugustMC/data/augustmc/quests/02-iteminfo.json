@@ -1,0 +1,13 @@
+{
+  "id": "iteminfo",
+  "name": "Item Information",
+  "icon": "minecraft:torch",
+  "description": "Ever wondered /wwhat this item or block does?/x There\u0027s a good chance I added some tips to it. \n/wHover over an item/x \u0026 /gHold/x either /g[W]/x or /g[Left Shift] / [Sneak]/x",
+  "category": "main",
+  "sub-category": "inventory",
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false
+}

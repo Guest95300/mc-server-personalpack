@@ -1,0 +1,41 @@
+{
+  "notes": [
+    "Starter export from AMI pack-author mode.",
+    "This export intentionally matches exact item IDs first; broaden to mods, paths, or tags after review."
+  ],
+  "rules": [
+    {
+      "match": {
+        "ids": [
+           "exposure:camera",
+           "exposure:camera_stand",
+           "exposure:black_and_white_film",
+           "exposure:color_film",
+           "exposure:high_sensitivity_black_and_white_film",
+           "exposure:high_sensitivity_color_film",
+           "exposure:developed_black_and_white_film",
+           "exposure:developed_color_film",
+           "exposure:photograph",
+           "exposure:aged_photograph",
+           "exposure:stacked_photographs",
+           "exposure:album",
+           "exposure:photograph_frame",
+           "exposure:glass_photograph_frame",
+           "exposure:interplanar_projector",
+           "exposure:lightroom",
+           "exposure_polaroid:instant_camera",
+           "exposure_polaroid:instant_black_and_white_slide",
+           "exposure_polaroid:instant_color_slide",
+           "exposure_polaroid:high_sensitivity_instant_black_and_white_slide",
+           "exposure_polaroid:high_sensitivity_instant_color_slide"
+        ]
+      },
+      "category": "utility",
+      "subcategory": "camera",
+      "metadata": {
+        "materialGroup": "exposure:camera",
+        "variantGroup": "item"
+      }
+    }
+  ]
+}

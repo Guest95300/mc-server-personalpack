@@ -1,0 +1,17 @@
+filename = 'NaturalWaters-v21.1.0-mc1.21.1-NeoForge.jar'
+name = 'Natural Waters'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.1.0'
+
+[download]
+hash = '5c1158f3c270a0a81f6321f981251af0f7810abeb346b0d0927eeff652a7dfe3fdeeea7bd7f2ce6e69389499b6393be78afc2cd6209d571f00103523b9ffb010'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aYttCyCw/versions/eb49d6pu/NaturalWaters-v21.1.0-mc1.21.1-NeoForge.jar'
+
+[update.modrinth]
+mod-id = 'aYttCyCw'
+version = 'eb49d6pu'

@@ -1,0 +1,37 @@
+{
+  "notes": [
+    "Starter export from AMI pack-author mode.",
+    "This export intentionally matches exact item IDs first; broaden to mods, paths, or tags after review."
+  ],
+  "rules": [
+    {
+      "match": {
+        "ids": [
+          "minecraft:black_bundle",
+          "minecraft:blue_bundle",
+          "minecraft:brown_bundle",
+          "minecraft:bundle",
+          "minecraft:cyan_bundle",
+          "minecraft:gray_bundle",
+          "minecraft:green_bundle",
+          "minecraft:light_blue_bundle",
+          "minecraft:light_gray_bundle",
+          "minecraft:lime_bundle",
+          "minecraft:magenta_bundle",
+          "minecraft:orange_bundle",
+          "minecraft:pink_bundle",
+          "minecraft:purple_bundle",
+          "minecraft:red_bundle",
+          "minecraft:white_bundle",
+          "minecraft:yellow_bundle"
+        ]
+      },
+      "category": "utility",
+      "subcategory": "tools",
+      "metadata": {
+        "materialGroup": "minecraft:bundle",
+        "variantGroup": "item"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "01w",
+  "name": "The Nights",
+  "icon": "minecraft:clock",
+  "description": "/rYou cannot sleep./x\n\nHowever... /oThe night seems to oddly be shorter.\n\n/rPhantoms no longer appear /ifrom the sky/x either.",
+  "category": "world",
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false
+}

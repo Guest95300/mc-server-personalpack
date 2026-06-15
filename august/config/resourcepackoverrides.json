@@ -1,0 +1,52 @@
+{
+  "schema_version": "2",
+  "failed_reloads_per_session": 2,
+  "default_packs": [
+    "vanilla",
+    "fabric",
+    "mod_resources",
+    "moonlight:merged_pack",
+    "continuity:default",
+    "continuity:glass_pane_culling_fix",
+    "file/Interfaces",
+    "mod/subtle_effects:resourcepacks/biome_color_water_particles",
+    "generated/fragmentum_layer"
+  ],
+    "pack_overrides": {
+    "vanilla": {
+      "title": "\"Default Assets\"",
+      "description": "\"Does your game look good yet...?\"",
+      "required": true
+    },
+    "generated/fragmentum_layer": {
+      "default_position": "TOP",
+      "force_compatible": true,
+      "hidden": true
+    },
+    "1": [
+      "file/AugustMusic",
+      "supplementaries:darker_ropes",
+      "vanillabackport:freshly_animated",
+      "vanillabackport:freshly_animated_legacy",
+      "mod/lootr:resourcepacks/old_textures",
+      "high_contrast"
+    ],
+    "$$1": {
+      "force_compatible": true,
+      "hidden": true
+    },
+    "2": [
+      "mod/subtle_effects:resourcepacks/biome_color_water_particles",
+      "continuity:glass_pane_culling_fix",
+      "continuity:default",
+      "moonlight:merged_pack",
+      "mod_resources",
+      "fabric"
+    ],
+    "$$2": {
+      "force_compatible": true,
+      "required": true,
+      "hidden": true
+    }
+  }
+}

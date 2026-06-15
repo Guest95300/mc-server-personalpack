@@ -1,0 +1,20 @@
+{
+  "attributeType": "minecraft:generic.scale",
+  "conditions": {
+    "affixes": {
+      "count": {},
+      "matches": {},
+      "values": []
+    },
+    "entity": [
+      "minecraft:creeper"
+    ],
+    "permission": "blacklist",
+    "tier": {}
+  },
+  "enable": false,
+  "modifier": {
+    "operation": "add_value",
+    "value": 1.0
+  }
+}

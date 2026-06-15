@@ -1,0 +1,12 @@
+{
+  "id": "02w",
+  "name": "Respawn",
+  "icon": "minecraft:red_bed",
+  "description": "/rBeds no longer pass the night./x\n/rNeither does it allow you to set your spawn point./x\n\nThe /l/iArbiter/x declares \"All for one, one for all\"\n\n\n/gI personally recommend building infrastructure for transportation.",
+  "category": "world",
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false
+}

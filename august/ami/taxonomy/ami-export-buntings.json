@@ -1,0 +1,39 @@
+{
+  "notes": [
+    "Starter export from AMI pack-author mode.",
+    "This export intentionally matches exact item IDs first; broaden to mods, paths, or tags after review."
+  ],
+  "rules": [
+    {
+      "match": {
+        "ids": [
+          "supplementaries:bunting_black",
+          "supplementaries:bunting_blue",
+          "supplementaries:bunting_brown",
+          "supplementaries:bunting_cyan",
+          "supplementaries:bunting_gray",
+          "supplementaries:bunting_green",
+          "supplementaries:bunting_light_blue",
+          "supplementaries:bunting_light_gray",
+          "supplementaries:bunting_lime",
+          "supplementaries:bunting_magenta",
+          "supplementaries:bunting_orange",
+          "supplementaries:bunting_pink",
+          "supplementaries:bunting_purple",
+          "supplementaries:bunting_red",
+          "supplementaries:bunting_white",
+          "supplementaries:bunting_yellow"
+        ]
+      },
+      "category": "decoration",
+      "subcategory": "none",
+      "metadata": {
+        "collapseFamily": "supplementaries:buntings",
+        "variantCollapseMode": "default_collapsed",
+        "variantGroup": "block",
+        "blocksMaterial": "other_building",
+        "collapseLabel": "Buntings"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+filename = 'sophisticatedbuilding-v4.0.0.jar'
+name = 'Effortless Building: Sophisticated'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v4.0.0'
+
+[download]
+hash = 'f7f4facaafc4c3394ed010ca77d7f2ed7c36fb2130582a3cf137fca7fcea8159d2b89fef66f17e7afff0886a2743ab53a5f2746733ff23ee7cc0118dedadd991'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Nw3rEYBH/versions/Fo3kVf5b/sophisticatedbuilding-v4.0.0.jar'
+
+[update.modrinth]
+mod-id = 'Nw3rEYBH'
+version = 'Fo3kVf5b'

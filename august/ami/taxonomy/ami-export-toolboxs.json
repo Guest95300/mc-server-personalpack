@@ -1,0 +1,39 @@
+{
+  "notes": [
+    "Starter export from AMI pack-author mode.",
+    "This export intentionally matches exact item IDs first; broaden to mods, paths, or tags after review."
+  ],
+  "rules": [
+    {
+      "match": {
+        "ids": [
+          "create:black_toolbox",
+          "create:blue_toolbox",
+          "create:cyan_toolbox",
+          "create:gray_toolbox",
+          "create:green_toolbox",
+          "create:light_blue_toolbox",
+          "create:light_gray_toolbox",
+          "create:lime_toolbox",
+          "create:magenta_toolbox",
+          "create:orange_toolbox",
+          "create:pink_toolbox",
+          "create:purple_toolbox",
+          "create:red_toolbox",
+          "create:white_toolbox",
+          "create:yellow_toolbox"
+        ]
+      },
+      "category": "utility",
+      "subcategory": "tools",
+      "metadata": {
+        "collapseFamily": "create:toolbox",
+        "variantCollapseMode": "default_collapsed",
+        "materialGroup": "create:toolbox",
+        "variantGroup": "block",
+        "blocksMaterial": "other_building",
+        "collapseLabel": "Toolboxs"
+      }
+    }
+  ]
+}

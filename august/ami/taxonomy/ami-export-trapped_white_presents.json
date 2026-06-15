@@ -1,0 +1,39 @@
+{
+  "notes": [
+    "Starter export from AMI pack-author mode.",
+    "This export intentionally matches exact item IDs first; broaden to mods, paths, or tags after review."
+  ],
+  "rules": [
+    {
+      "match": {
+        "ids": [
+          "supplementaries:trapped_present_black",
+          "supplementaries:trapped_present_blue",
+          "supplementaries:trapped_present_brown",
+          "supplementaries:trapped_present_cyan",
+          "supplementaries:trapped_present_gray",
+          "supplementaries:trapped_present_green",
+          "supplementaries:trapped_present_light_blue",
+          "supplementaries:trapped_present_light_gray",
+          "supplementaries:trapped_present_lime",
+          "supplementaries:trapped_present_magenta",
+          "supplementaries:trapped_present_orange",
+          "supplementaries:trapped_present_pink",
+          "supplementaries:trapped_present_purple",
+          "supplementaries:trapped_present_red",
+          "supplementaries:trapped_present_white",
+          "supplementaries:trapped_present_yellow"
+        ]
+      },
+      "category": "tech",
+      "subcategory": "machines",
+      "metadata": {
+        "collapseFamily": "supplementaries:trapped_presents",
+        "variantCollapseMode": "default_collapsed",
+        "variantGroup": "block",
+        "blocksMaterial": "other_building",
+        "collapseLabel": "Trapped White Presents"
+      }
+    }
+  ]
+}

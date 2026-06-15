@@ -1,0 +1,42 @@
+#A list of quest category IDs to completely disable.
+disabledQuestCategories = []
+
+[UI]
+	#Pin the Quest hud to the: bottom_left, bottom_right, top_left, top_right
+	pinnedQuestHudPosition = "bottom_left"
+	#If true, hides the quest book button in the inventory screen.
+	hideQuestBookInInventory = false
+	#Quest book button position in inventory: beside_recipe_book, above_offhand_slot
+	questBookInventoryButtonPosition = "above_offhand_slot"
+	#If true, centers inventory and quest panel together when the quest panel is open.
+	centerInventoryWithQuestPanel = true
+	#If true, hides the category header bar.
+	hideCategoryHeader = false
+	#How quest filters are displayed: tabs, buttons, hidden.
+	filterDisplayMode = "tabs"
+	#If true, disables category tabs and category-based filtering.
+	disableCategories = false
+	#If false, disables the built-in Boundless quest pack.
+	enableBuiltinQuestPack = false
+	#If true, hides icons in quest list widgets.
+	hideQuestWidgetIcons = false
+	#If true, shows the quest search box above the quest list.
+	enableQuestSearchBox = false
+	#If true, allows colored quest descriptions to render with Boundless color tokens.
+	enableDescriptionColors = true
+	#If true, shows quest unlocked toasts.
+	enableQuestToasts = true
+
+[Functionality]
+	#If true, quest pinning and pinned HUD are disabled.
+	disableQuestPinning = false
+	#If true, quest rewards are automatically claimed when a quest becomes complete.
+	autoClaimQuestRewards = false
+	#If true, quest completion scrolls can be created and used.
+	enableQuestScrolls = false
+
+[Gameplay]
+	#If true, quest book opening is disabled.
+	disableQuestBook = false
+	#If true, players spawn with the quest book.
+	spawnWithQuestBook = false

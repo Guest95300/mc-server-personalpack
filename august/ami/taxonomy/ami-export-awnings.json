@@ -1,0 +1,39 @@
+{
+  "notes": [
+    "Starter export from AMI pack-author mode.",
+    "This export intentionally matches exact item IDs first; broaden to mods, paths, or tags after review."
+  ],
+  "rules": [
+    {
+      "match": {
+        "ids": [
+          "supplementaries:awning_black",
+          "supplementaries:awning_blue",
+          "supplementaries:awning_brown",
+          "supplementaries:awning_cyan",
+          "supplementaries:awning_gray",
+          "supplementaries:awning_green",
+          "supplementaries:awning_light_blue",
+          "supplementaries:awning_light_gray",
+          "supplementaries:awning_lime",
+          "supplementaries:awning_magenta",
+          "supplementaries:awning_orange",
+          "supplementaries:awning_pink",
+          "supplementaries:awning_purple",
+          "supplementaries:awning_red",
+          "supplementaries:awning_white",
+          "supplementaries:awning_yellow"
+        ]
+      },
+      "category": "decoration",
+      "subcategory": "none",
+      "metadata": {
+        "collapseFamily": "supplementaries:awnings",
+        "variantCollapseMode": "default_collapsed",
+        "variantGroup": "block",
+        "blocksMaterial": "other_building",
+        "collapseLabel": "Awnings"
+      }
+    }
+  ]
+}

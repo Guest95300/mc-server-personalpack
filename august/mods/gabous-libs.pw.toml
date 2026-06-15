@@ -1,0 +1,17 @@
+filename = 'gaboulibs-neoforge-1.7.2.jar'
+name = 'gaboulibs'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'NeoForge-1.7.2'
+
+[download]
+hash = '751b4b3b5c6d482862476fbdedbf57ad3c4aa85875b3944fec0c310c8a24b0a8a405adedf9a9bedc0d4ab6fb14f20adc5d87b8efd8a185cfaff21a46b51ff90e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/N8aGZtvj/versions/MXtY8Vhp/gaboulibs-neoforge-1.7.2.jar'
+
+[update.modrinth]
+mod-id = 'N8aGZtvj'
+version = 'MXtY8Vhp'

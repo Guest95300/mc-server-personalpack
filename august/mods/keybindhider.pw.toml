@@ -1,0 +1,17 @@
+filename = 'KeybindHider-Neoforge-1.21.1-1.3.jar'
+name = 'KeybindHider'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3'
+
+[download]
+hash = '25942de61a5508016b66b5f529ce5b70a89c89daa35e6a04b3a17770d9917ec36cc4906f4f29e9e94fc690d38ab26921e530acad2f4760be1e933b84c286389f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MVgNXRxk/versions/EnPVjTGn/KeybindHider-Neoforge-1.21.1-1.3.jar'
+
+[update.modrinth]
+mod-id = 'MVgNXRxk'
+version = 'EnPVjTGn'

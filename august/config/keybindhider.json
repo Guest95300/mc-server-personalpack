@@ -1,0 +1,39 @@
+{
+  "hiddenCategories": [
+    "key.categories.sable-barehanded",
+    "Better Combat",
+    "key.category.shine.main",
+    "key.categories.ponderer",
+    "key.categories.kubejs",
+    "key.categories.raised.raised",
+    "Lift n' Load",
+    "key.categories.createthrusters",
+    "key.categories.ponder",
+    "category.exposure",
+    "Create Simulated",
+    "key.modernfix",
+    "key.categories.boundless",
+    "key.category.aileron",
+    "key.categories.creative",
+    "key.categories.create_aeronautics_toolgun"
+  ],
+  "hiddenKeybinds": [
+    "key.fog.toggle",
+    "gnetum.config.keyMapping",
+    "key.ami.debug_tooltips",
+    "key.ami.cheat_give_one",
+    "key.ami.cheat_give_stack",
+    "create.keyinfo.shift_modifier",
+    "create.keyinfo.ctrl_modifier",
+    "create.keyinfo.alt_modifier",
+    "key.jade.config",
+    "key.jade.toggle_liquid",
+    "key.voice_chat_group",
+    "key.voice_chat_toggle_recording",
+    "key.voice_chat_adjust_volumes",
+    "key.voice_chat_settings",
+    "key.hide_icons"
+  ],
+  "disabledKeybinds": false,
+  "consoleLogs": false
+}

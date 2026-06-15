@@ -1,0 +1,60 @@
+{
+  "notes": [
+    "Starter export from AMI pack-author mode.",
+    "This export intentionally matches exact item IDs first; broaden to mods, paths, or tags after review.",
+    "Edit the generated category id/label if you want a different name or icon."
+  ],
+  "categories": {
+    "skillbooks": {
+      "label": "Skillbooks",
+      "iconItem": "minecraft:paper",
+      "subcategories": {
+        "group": "Group"
+      }
+    }
+  },
+  "rules": [
+    {
+      "match": {
+        "ids": [
+          "epicfight:skillbook/variant/skill_book_0936049ee828",
+          "epicfight:skillbook/variant/skill_book_392d50f09d0a",
+          "epicfight:skillbook/variant/skill_book_413ebad6e323",
+          "epicfight:skillbook/variant/skill_book_48464059e751",
+          "epicfight:skillbook/variant/skill_book_532102f6e541",
+          "epicfight:skillbook/variant/skill_book_570a0f44d21f",
+          "epicfight:skillbook/variant/skill_book_586541042962",
+          "epicfight:skillbook/variant/skill_book_67f3b5be2f4e",
+          "epicfight:skillbook/variant/skill_book_775cd56953ef",
+          "epicfight:skillbook/variant/skill_book_7850aea18108",
+          "epicfight:skillbook/variant/skill_book_7a56eb6e6961",
+          "epicfight:skillbook/variant/skill_book_7addd69080cc",
+          "epicfight:skillbook/variant/skill_book_849e1cac8496",
+          "epicfight:skillbook/variant/skill_book_9cf7db5ebef5",
+          "epicfight:skillbook/variant/skill_book_a1f353cacf50",
+          "epicfight:skillbook/variant/skill_book_aa5f53b0cdda",
+          "epicfight:skillbook/variant/skill_book_b14ec6360d5b",
+          "epicfight:skillbook/variant/skill_book_c3a30a6ca176",
+          "epicfight:skillbook/variant/skill_book_c5626e7f9d97",
+          "epicfight:skillbook/variant/skill_book_d31c576a727f",
+          "epicfight:skillbook/variant/skill_book_da3c12cc6c60",
+          "epicfight:skillbook/variant/skill_book_fb7772f9ad53",
+          "epicfight:skillbook/variant/skill_book_fd4ed91a2cf6",
+          "epicfight:skillbook/variant/skill_book_01d6b70bf5fa",
+          "epicfight:skillbook/variant/skill_book_2c80a3024cfd",
+          "epicfight:skillbook/variant/skill_book_4adb0268541e",
+          "epicfight:skillbook/variant/skill_book_599e0070f96a",
+          "epicfight:skillbook/variant/skill_book_678430ef43da",
+          "epicfight:skillbook/variant/skill_book_a025f6517ca2",
+          "epicfight:skillbook/variant/skill_book_f29abe3d00a3"
+        ]
+      },
+      "category": "utility",
+      "subcategory": "books",
+      "metadata": {
+        "variantCollapseMode": "auto",
+        "materialGroup": "epicfight:skillbook"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+filename = 'ami-neoforge-1.21.1-1.6.0.jar'
+name = 'Automated Materials Index'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6.0+neoforge.1.21.1'
+
+[download]
+hash = '322b6b05520434254b3900a4241fadab69e2f0604aef275672816be49bdfa1b7bd43e65f5d8dcefe98f42de23a9a6e7f0fad3297b96e41e3064a1806040d6b32'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QOM56zjQ/versions/6BQlYxZ2/ami-neoforge-1.21.1-1.6.0.jar'
+
+[update.modrinth]
+mod-id = 'QOM56zjQ'
+version = '6BQlYxZ2'

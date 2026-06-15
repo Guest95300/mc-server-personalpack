@@ -1,0 +1,162 @@
+{
+  "id": "ponderer:feather_on_a_stick",
+  "items": [
+    "redomesticate:feather_on_a_stick"
+  ],
+  "title": {
+    "en_us": "New Scene - feather_on_a_stick",
+    "zh_cn": "新场景 - feather_on_a_stick"
+  },
+  "structures": [
+    "ponderer:basic"
+  ],
+  "tags": [],
+  "editable": true,
+  "scenes": [
+    {
+      "id": "scene_1",
+      "title": {
+        "en_us": "Scene 1",
+        "zh_cn": "场景 1"
+      },
+      "steps": [
+        {
+          "type": "show_structure",
+          "attachKeyFrame": true
+        },
+        {
+          "type": "idle",
+          "duration": 20
+        },
+        {
+          "type": "text",
+          "duration": 120,
+          "text": {
+            "en_us": "This sends out a feather on a string in front of you...",
+            "zh_cn": "编辑这个思索场景!"
+          },
+          "point": [
+            2.5,
+            2.0,
+            2.5
+          ],
+          "placeNearTarget": true,
+          "attachKeyFrame": true
+        },
+        {
+          "type": "create_item_entity",
+          "pos": [
+            2.5,
+            2.0,
+            2.5
+          ],
+          "motion": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "count": 1,
+          "item": "redomesticate:feather_on_a_stick",
+          "nbt": "{NoGravity:1b}"
+        },
+        {
+          "type": "idle",
+          "duration": 60
+        },
+        {
+          "type": "zoom_scene",
+          "duration": 20,
+          "point": [
+            3.0,
+            0.0,
+            6.0
+          ]
+        },
+        {
+          "type": "show_extra_structure",
+          "structure": "ponderer:ponder_basicplatform",
+          "rotation": 0.0,
+          "direction": "north",
+          "blockPos": [
+            0,
+            0,
+            5
+          ],
+          "spawnParticles": false,
+          "immediateDisplay": false,
+          "smartDisplay": false,
+          "entranceAnimation": "south",
+          "entranceDuration": 10,
+          "entranceInterval": 1,
+          "replaceAir": true
+        },
+        {
+          "type": "idle",
+          "duration": 20
+        },
+        {
+          "type": "create_entity",
+          "entity": "minecraft:wolf",
+          "pos": [
+            2.5,
+            1.0,
+            8.5
+          ],
+          "lookAt": [
+            2.5,
+            1.0,
+            2.5
+          ],
+          "linkId": "wolf01"
+        },
+        {
+          "type": "set_block",
+          "block": "redomesticate:pet_bed_red",
+          "blockProperties": {
+            "waterlogged": "false",
+            "facing": "north"
+          },
+          "blockPos": [
+            2,
+            1,
+            2
+          ],
+          "blockPos2": [
+            2,
+            1,
+            2
+          ],
+          "immediateDisplay": true,
+          "entranceAnimation": "none"
+        },
+        {
+          "type": "idle",
+          "duration": 10
+        },
+        {
+          "type": "modify_entities_nbt",
+          "duration": 60,
+          "linkId": "wolf01",
+          "offset": [
+            0.0,
+            0.0,
+            -6.0
+          ],
+          "walkAnimation": true
+        },
+        {
+          "type": "text",
+          "duration": 200,
+          "text": "Useful for moving a pet onto its bed so you can set its respawn point.",
+          "point": [
+            2.5,
+            2.0,
+            2.5
+          ],
+          "color": "green",
+          "placeNearTarget": true
+        }
+      ]
+    }
+  ]
+}

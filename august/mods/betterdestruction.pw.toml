@@ -1,0 +1,17 @@
+filename = 'betterdestruction-0.3.0a.jar'
+name = 'Better Destruction'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '0.3.0a'
+
+[download]
+hash = '5808193a461fbe6bc5d482f05322ab9ce855861dcaebd8e37f4cb29ec7543fa486496aaddc1df062e1e011f6fd8c4fbf6493e1e1a6c169745922d411f337a94f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/F05XgX7b/versions/7fj7L2gW/betterdestruction-0.3.0a.jar'
+
+[update.modrinth]
+mod-id = 'F05XgX7b'
+version = '7fj7L2gW'
