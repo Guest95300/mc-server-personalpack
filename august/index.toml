@@ -18841,10 +18841,6 @@ file = "config/ponderer-server.toml"
 hash = "cf4189aad5737943bea0f41df0ee0e97b56d99e117beeec18ee6673c77a57dcb"
 
 [[files]]
-file = "config/ponderer/.initialized"
-hash = "19559f1ac8c25bffec023f60f8042a8eebd57f3bf6005b70c140df7127ebb07d"
-
-[[files]]
 file = "config/ponderer/scripts/collar_tag.json"
 hash = "2bcc77de7b9a0db77d8901c73d83666394044a5fba332dc3bd729da51c53b23e"
 
