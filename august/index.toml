@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/ragdoll-reactions.pw.toml"
-hash = "94aa02ba07ae42f676c605d2775dbf0a536a4b9e6e072b2d63d866e56cfc7fb5"
+hash = "25271941b40e354248f4c11e398f032c71aa0bc01091ed9b91b6a1e090e44d72"
 metafile = true
 
 [[files]]
