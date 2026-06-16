@@ -81,10 +81,6 @@ file = "ami/taxonomy/transmlinkage.json"
 hash = "18a5519e5b025ed4c28f99c270aed08f4d73073d39c2764325d643ea5e667a90"
 
 [[files]]
-file = "config/.puzzle_cache/mojangstudios.png"
-hash = "27d2a588a33e94aff8cea4ea6090509ab3e10640f980e63dfd317c6b0dcd30df"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
