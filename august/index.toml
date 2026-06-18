@@ -209,6 +209,18 @@ file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/sub-category/p
 hash = "0177caede108231d6f8e968436b52ca4c4978ecead26f3c8ad68539211e580f7"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "273f0e9a3153c77d14cfd3022b7ff7d67022ecd2585b6fec67edc526cfb0842f"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "41ee82229a14176563f79b55898cda0f8556db448346e08b30440e7fef17dc92"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "2ab58cbac9f3e35c304dfc1506df67cd32f837ba2cd4dd4e6b0dca6f8a373e95"
+
+[[files]]
 file = "config/entity_model_features.json"
 hash = "d9cf88559b017a538da84562c6a509e25b2ede5007a56fd3ba6d1f37c29c1c50"
 
