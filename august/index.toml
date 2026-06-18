@@ -81,8 +81,140 @@ file = "ami/taxonomy/transmlinkage.json"
 hash = "18a5519e5b025ed4c28f99c270aed08f4d73073d39c2764325d643ea5e667a90"
 
 [[files]]
+file = "config/boundless/quest_state/default.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/boundless/quest_state/mp_209.25.142.31_1047.json"
+hash = "918ff5f9bd26bc1b92149bbefa7137bc0ccbf1075cb7e0f46c5a2256a2fc1e28"
+
+[[files]]
+file = "config/boundless/quest_state/mp__2001_3__5445_695d_1458_a13e__25565.json"
+hash = "ae28d708ae2d86daf2b4c15826a831dfeec5d03db19c286220cb7c3726cf1d1d"
+
+[[files]]
+file = "config/boundless/quest_state/sp_New_World.json"
+hash = "94cc501c5e89b0eaa1fd58e4505097b1ff96e91fa1ea7611b7b3be7c784bcd33"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/boundless/pack.json"
+hash = "154a5f12fa4daafbfb1cd4bc501e04ed4d809f77bd07bf325ebd50d1babfab87"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/01-place02.json"
+hash = "920dcc4f78d73a6af0e6438ea20497eab62391e675817c75525e5efb4d2c9d42"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/01-ragdoll.json"
+hash = "aebc5b032e5602a27a9cbdf6ba29171c4b792b18351508b81825eacd41da985c"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/01-recipes.json"
+hash = "7f8fa64c70f964562d78c25a3ae4f6c21ab4dc61645b152fadc42b3f02007811"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/02-grab.json"
+hash = "3e4d60aa2b4a98d7a8c7a2cd9a83fa2b89a25d4401e71bdd5ff76d31d4c61918"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/02-iteminfo.json"
+hash = "455510a13ffb2cd0dae26082c37b761f16beaf1413e9defd735a5e00d8f4f98a"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/02-place01.json"
+hash = "a46b716930ce14df347b3c886f4e83924549d10bc7a866d1b98dc5d03732d93c"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/03-uses.json"
+hash = "9c20ca9a0c06627b433174d34810a570c646955ab816aea4d48ad5f0346c9381"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/08-purpose.json"
+hash = "011ddc1761cd8ee497668d77053b21637bd79d90ee7102f128c0cf6a34345262"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/09-01w.json"
+hash = "faddd5d82cce35b6b4c103e5ef6515c748de83e775f36b2297818e9cc403aee5"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/10-02w.json"
+hash = "1508bbef34ebf4212b5da91c6c7d9025605dd357a38cb94dd0885ff8adeb709f"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/11-03w.json"
+hash = "f0b77357e23b3b2d49241a4b17727e9542801e9ebd454689213ad2f27b63f4c2"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/12-nerdfs.json"
+hash = "31766fb72c709743b18227fb85f5254aeef4c749d418d755dc0c8da4206643eb"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/13-camera.json"
+hash = "6071f4f197a026b48f7337a0db64d79e60c00be710d16a2a7771d5f3d9b1a623"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/14-camera_slides.json"
+hash = "1e0a66425209a8e82ea20f490d4c55cfae08794c3b6b46a2eb0683b4cffcf262"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/15-villager.json"
+hash = "bd52c77b258449867324de73bd4f488f1df3f0316dd51cfd484025db57aceb5f"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/16-freestuff.json"
+hash = "dbdf1ffe128da9960de38858d9697555ccc63f2ecf5d0d219c864b653dbfdaf8"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/17-missing_guide.json"
+hash = "da2b7f3fa4e72637a7708b0e1133b45b72ea6c427ecdb9aa4aa7fbddc0cad7a3"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/18-place_sim.json"
+hash = "a6e0193c8d4d5b2989fcca353096143fafcd99843dc74784ba10e893cbc050ef"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/categories/content.json"
+hash = "e5fbce08d0f8bd2e842206e0346600912374f656c129060122545cd998f7159b"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/categories/main.json"
+hash = "a2c7d0e8a90001acb486f4a19ae461f038a6852c2566eb9f4ab0ce9d08b27dee"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/categories/stuff.json"
+hash = "a64c02dc91550daec530df6aa926673a4394ba9a7612b4ada13dc4db3bd13a9d"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/categories/world.json"
+hash = "323be1c089e6b0ef16e16a677f2cdee0f6ecd2250ffdd6b741e28720b8917462"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/sub-category/0important.json"
+hash = "2d6cf01c2fd225728080cb014c693ef14c1c5f49a30013834a1cd76e41f9398d"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/sub-category/building.json"
+hash = "af42da358d8d8f5e032412df3463f3202eb6785751c07067dbbe93c2e01a6819"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/sub-category/controls.json"
+hash = "94ddcc67c273afa58114676d6ecdc3a1d1ada28c0fc6a42d1a05f0bc64241981"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/sub-category/inventory.json"
+hash = "488b25b6213fb2a809b22314569de8028fe2a7a9d1fbf6663efea70a9638460f"
+
+[[files]]
+file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/sub-category/photography.json"
+hash = "0177caede108231d6f8e968436b52ca4c4978ecead26f3c8ad68539211e580f7"
+
+[[files]]
 file = "config/entity_model_features.json"
 hash = "d9cf88559b017a538da84562c6a509e25b2ede5007a56fd3ba6d1f37c29c1c50"
+
+[[files]]
+file = "config/item_obliterator.json5"
+hash = "1dd138fefd21995a27194777cac3273230236b059c6220acf4523127a2b6b462"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -150,12 +282,12 @@ metafile = true
 
 [[files]]
 file = "mods/atmospheric-rain-backport.pw.toml"
-hash = "2131b4705f6c6370e6ccfb1b0452837571261c40ded2c40bd99c803380b63d30"
+hash = "caacf3e16a2828ca8042e92403717af20d98ae3dad7c0641c4360d6e76b0b085"
 metafile = true
 
 [[files]]
 file = "mods/automatedmaterialsindex.pw.toml"
-hash = "8460235d4d8f7c806bdd28d756c13126a4e492416b043451d0c1515cc357bc1e"
+hash = "ea5bdb1dd0b48daff16d57865f4042399d1b8a34962e2dc98d0862b422ebc958"
 metafile = true
 
 [[files]]
@@ -165,12 +297,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1bc7a5d4cee2b0f2e7e98e36654875f68a9fd4bb8789dc454ae927dfb80562c2"
+hash = "01bb62e319ef6b48c56222a102cf1b99c8861678068f0c77858d0d81e77894d3"
 metafile = true
 
 [[files]]
 file = "mods/barehanded.pw.toml"
-hash = "ebc8c775ae875c049a48d7fcc0c4569f9342472ff4532372787da7b5395e1095"
+hash = "aaff37f81585c7fca970e3ec061a6b90893da0feb8fea90470267303ef2faa27"
 metafile = true
 
 [[files]]
@@ -190,12 +322,12 @@ metafile = true
 
 [[files]]
 file = "mods/betterdestruction.pw.toml"
-hash = "673fa6e43baed2c17860b1dde40f5f0a5ccba748799cbe452f74c9400f1b671f"
+hash = "26104f7447d6c964be5e81b477f96758f9a43f11f686f56f5ca6662773f6e338"
 metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "7cba1e578e246d3aee21a98f67540a80e20a0790ecc14e43c71b4b65f42972dd"
+hash = "e19788fdcaf4d9cc420b3145c6bffa88666bea3a9ec254ce87bd0cfb7aaced2a"
 metafile = true
 
 [[files]]
@@ -205,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/boundless-quests.pw.toml"
-hash = "e972c4ffd4958c6ef8851b261c2f3e7039565f9b9309a6031a6c8bbf5764fd69"
+hash = "11d4defc2cff0a0c8e5257a223ff7409c48fae7746d2da906f4925ad2027e4a7"
 metafile = true
 
 [[files]]
@@ -240,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "45c4735cb01677d16eb40c0ffd8e5a1727e76a69a1319ccf47c988af6ff8632c"
+hash = "d113daaa9937c137e1f2d71946842b75ce6e12e842c33d68c17ce4bf20efbce5"
 metafile = true
 
 [[files]]
@@ -255,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-thrusters-and-things.pw.toml"
-hash = "a1a28494cc9814d65ef972231ce9c6d25a3fe1d248e66ecaef1d3cbb98ac2f38"
+hash = "7764e930b1228673e73a93ea134d1c3564a91d0f68727fba1bb932ea2edbe432"
 metafile = true
 
 [[files]]
@@ -265,12 +397,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-transmission-linkage.pw.toml"
-hash = "bb8a5856eda37125fe7ba198451aae7d86430eb047b59704bce64c4ac8cffc83"
+hash = "35008319d4ad79a91603f48ecb554145fd0faed944b9e1757adc5e94688ed2e9"
 metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "f218c09fb5c3bb8209f1e4a0cd33eaf14da56b1ea1424fda435b7313dd7e2fbc"
+hash = "85ad744c91bd60ba8019f7418fc8a1834fe79c9faad74c58718ff26113bc2541"
 metafile = true
 
 [[files]]
@@ -285,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-grappling-hooks.pw.toml"
-hash = "0b8553cf96b6e89bd4716b2bdeca791356980bc9e8789d2a5e0267a2b9891d85"
+hash = "a2c95e2fd9701e702dde4883df2b67fb00fe947993764e17f4f2a25d85c426e2"
 metafile = true
 
 [[files]]
@@ -470,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "3bd65b1239c609ebe315e7f3eaecaeb0d9f96647980758a42a2ff4b73deb89af"
+hash = "8b6f9249a4fa58eb2d0b228e725c02cb03afed87f97dccacd279b10f76623d49"
 metafile = true
 
 [[files]]
@@ -480,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/kerria-opt.pw.toml"
-hash = "a4d53c3037bd7e392448bfd592b98ce8da1ea9434f93d0d2fcc8da76622c2d04"
+hash = "c9ba6b33cd4b9fcf3b833cf8c1407bd11824b02cf43f26655fb4cdceb3103f0c"
 metafile = true
 
 [[files]]
@@ -550,17 +682,17 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6bc85ef062e826519daba1da3c09eb46012aa880791d31a45167d7e7b8843c64"
+hash = "2df2fbc084d00910b8d22dbf1a47be0b925d364d6830c1301fbf9519585da060"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "393c28e93ffeaeeffb257d70be3b27de20128c028d4c5b9d35f7289c17bf78fe"
+hash = "1d75ee940116c96e4cbba6cd2907acb383515c80ddd54f196130eb395695ff4a"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "c88c61c9f1ec5ed2b205b6709f8943875e0a816e05a8e3ec08a8192ad4f1fd8e"
+hash = "9898826eaa88c2983d0deeedf50586bddeb46ea55607d1359d79f31913b88f43"
 metafile = true
 
 [[files]]
@@ -635,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/ragdoll-reactions.pw.toml"
-hash = "25271941b40e354248f4c11e398f032c71aa0bc01091ed9b91b6a1e090e44d72"
+hash = "79b849eee6f7b6408bf5252540e0b2d6f9491be8a8a27dca9d7748be89af4349"
 metafile = true
 
 [[files]]
@@ -650,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "ae478d6fcbb27b50e12d4e9ef30c2552ee7d8117ae01c6ed8ad19adb9ad2b6cc"
+hash = "387a81eb7b4a8b712c754b2dd24b5d8d297c25fb8037fe4ae1a894a7d47f0b94"
 metafile = true
 
 [[files]]
@@ -685,12 +817,12 @@ metafile = true
 
 [[files]]
 file = "mods/sable-player-ragdolls.pw.toml"
-hash = "bbb8397d7ba25ebbdea4e668f574fedcd1890a1f7fbd63a278cca59ef1104476"
+hash = "3935f6745a4481a358d01593e0f60189fcf73fc55dd48d71c1bb2c466f2c9aad"
 metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "1ea8042b4d26cbf06f3acb2082142d2bea8039018f1238540b933e078b75abda"
+hash = "74bda122224634e583084e6a9bc1bdc5667eb3a6429a63db748812141b3cf11f"
 metafile = true
 
 [[files]]
@@ -709,9 +841,8 @@ hash = "778649ea370213112d0e991ad2163ccba395a13b02153cf1a1e63c498833816c"
 metafile = true
 
 [[files]]
-file = "mods/shine.pw.toml"
-hash = "65a8c5bd785fc8931b8f74aa7b0d9c48b285aa83aa8292b8a66b5c4765c2f6c2"
-metafile = true
+file = "mods/shine-2.0.1+1.21.1-neoforge.jar"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
@@ -745,8 +876,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "396aa5e251c6137bff08097700ef2bae5c0a7d0038f4a9377991f450ea508635"
+hash = "9848609b19d98130a1ac9a0f6dba40bc0a2bb1acc7053a498b55fa89038be51e"
 metafile = true
+
+[[files]]
+file = "mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
@@ -775,7 +910,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "dbebc037046af3d0aabeb97d9679dd70766302ce09d38b09be87552a126106e7"
+hash = "b4505f6ed64c00a5caaf32875153304095cd3cea9c9ea3bc91c82fd84c25f30d"
 metafile = true
 
 [[files]]
@@ -785,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-physics.pw.toml"
-hash = "f048f76cd525a85d9a91778775e0078662e068354d40c91a4fa84fddc3fc8413"
+hash = "392d1fea905d7db119aa64b51ffe312888fed40481840d29bdf8f219a67540fa"
 metafile = true
 
 [[files]]
