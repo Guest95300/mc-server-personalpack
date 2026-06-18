@@ -1,0 +1,8 @@
+{
+  "id": "photography",
+  "category": "stuff",
+  "name": "Photography",
+  "icon": "exposure:photograph",
+  "order": 4,
+  "default_open": false
+}

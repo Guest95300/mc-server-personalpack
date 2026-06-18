@@ -1,0 +1,12 @@
+{
+  "id": "villager",
+  "name": "Villagers",
+  "icon": "minecraft:villager_spawn_egg",
+  "description": "Villagers have recently obtained some level of consciousness...\n\nThey can /wfish, eat food and even announce special services!/x\n\nThey now also have /ynames./x\n\n/lVillagers now also only prefer to trade in /lproper made homes, not one block spaces.",
+  "category": "world",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false
+}

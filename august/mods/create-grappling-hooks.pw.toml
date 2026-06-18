@@ -1,17 +1,17 @@
-filename = 'create_grappling_hooks-1.1.0.jar'
+filename = 'create_grappling_hooks-1.2.0.jar'
 name = 'Create Grappling Hooks'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.1.0'
+x-prismlauncher-version-number = '1.2.0'
 
 [download]
-hash = 'afe0e92060936ecba2eeed7ea38876a7fb9dd4a1de7d63eeea405a2caf949dbf6cdf438e34a778b65cb722368ead41fa89804207259922f04bafd9e98528bb9f'
+hash = '9a2b2e6847a17af5372437cd826293ff4375fa63c900b093939572ba0f044b2694784ba82076d12772eb4ebb66803c980c10ecda050e93661a2631b78d61f8bf'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/zxlsvyWp/versions/lhc5gZAI/create_grappling_hooks-1.1.0.jar'
+url = 'https://cdn.modrinth.com/data/zxlsvyWp/versions/B0LZVGnh/create_grappling_hooks-1.2.0.jar'
 
 [update.modrinth]
 mod-id = 'zxlsvyWp'
-version = 'lhc5gZAI'
+version = 'B0LZVGnh'

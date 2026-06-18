@@ -1,0 +1,8 @@
+{
+  "id": "inventory",
+  "category": "main",
+  "name": "Inventory",
+  "icon": "minecraft:glass_pane",
+  "order": 2,
+  "default_open": true
+}

@@ -1,0 +1,8 @@
+{
+  "id": "controls",
+  "category": "main",
+  "name": "Controls",
+  "icon": "minecraft:iron_block",
+  "order": 3,
+  "default_open": true
+}
