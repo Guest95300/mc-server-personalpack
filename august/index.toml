@@ -229,6 +229,38 @@ file = "config/item_obliterator.json5"
 hash = "1dd138fefd21995a27194777cac3273230236b059c6220acf4523127a2b6b462"
 
 [[files]]
+file = "config/mob-ai-tweaks/blacklists/allay_weapons.txt"
+hash = "e71996ef3c593654785e734fa84904dff68caf20d20b7441e7e996d711f43a04"
+
+[[files]]
+file = "config/mob-ai-tweaks/blacklists/hostiles_that_can_sit.txt"
+hash = "10321a384ff8beb21c98e0c3cb90e13a0fb5a687745e9766ea4155c1e82c752d"
+
+[[files]]
+file = "config/mob-ai-tweaks/blacklists/modded_bows_and_crossbows.txt"
+hash = "7f5519e3906ac99c55cb9cd7e092b287acd0d1af4f52a405afa934f17f815ade"
+
+[[files]]
+file = "config/mob-ai-tweaks/general_config.txt"
+hash = "722871c3eb1915b9c80ad095d23e746fdb06856c4c3edf6baf9042b92b491964"
+
+[[files]]
+file = "config/mob-ai-tweaks/ranged_mobs/mob_secondary_weapons.txt"
+hash = "e7b8fb6e8e48c6c4d8958a958a8fce095c939b4909683db753decf622b49b73e"
+
+[[files]]
+file = "config/mob-ai-tweaks/ranged_mobs/override_attack_intervals.txt"
+hash = "4a5569eac1c8787829dd6f10fc8bdca6fea3ff403cd8c12d6926a6c04cd49a98"
+
+[[files]]
+file = "config/mob-ai-tweaks/sniffer/item_to_biome.txt"
+hash = "4e1e41b190b4bfd0e22f727184168c0ad4fae23b005330c281f384e25ce8797c"
+
+[[files]]
+file = "config/mob-ai-tweaks/whitelists/seats_hostiles_can_escape.txt"
+hash = "b76af950b3308334127224428f7db8c144c3a82f6023b812610803589385af09"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -314,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/barehanded.pw.toml"
-hash = "aaff37f81585c7fca970e3ec061a6b90893da0feb8fea90470267303ef2faa27"
+hash = "e240d2304ebe9638b9c5bbe5167095c583b438c9bdf9c2365ce09b4c2b8baacd"
 metafile = true
 
 [[files]]
@@ -598,6 +630,16 @@ hash = "6a72b9a3271dd07211d6580f1f9ef38dcdf4077010e3ed0d39c310cd9908d804"
 metafile = true
 
 [[files]]
+file = "mods/hand-shaker.pw.toml"
+hash = "a643b2baeeeabeb1816844ed559c6e43a6f50a8021e5df89e243621071cb1040"
+metafile = true
+
+[[files]]
+file = "mods/handlib.pw.toml"
+hash = "b6292a347fb5f789d94567aa509c9303edee53fce3da35282796a9e2793ad261"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2aa289afdb9e78436e68f6982ee1af3a48d553128f40e9d57b73f7db3c0bcf66"
 metafile = true
@@ -853,10 +895,6 @@ hash = "778649ea370213112d0e991ad2163ccba395a13b02153cf1a1e63c498833816c"
 metafile = true
 
 [[files]]
-file = "mods/shine-2.0.1+1.21.1-neoforge.jar"
-hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "4c8e78397718c604778e2ee10f1295ae4a3348c456e623a157dddc26e12a232a"
 metafile = true
@@ -890,10 +928,6 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "9848609b19d98130a1ac9a0f6dba40bc0a2bb1acc7053a498b55fa89038be51e"
 metafile = true
-
-[[files]]
-file = "mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar"
-hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
