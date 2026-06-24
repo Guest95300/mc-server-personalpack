@@ -1,7 +1,7 @@
 #A list of quest category IDs to completely disable.
 disabledQuestCategories = []
 #Instance questpack IDs explicitly enabled by the server.
-appliedQuestPacks = ["augustmc", ".augustmc.upload"]
+appliedQuestPacks = ["augustmc.upload"]
 #Instance questpack IDs explicitly disabled by the server.
 disabledQuestPacks = []
 

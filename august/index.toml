@@ -70,7 +70,7 @@ hash = "1e41b5bfdbdcaaefff215a3472c8a9c6908114f9d81257dfcba39223db67533a"
 
 [[files]]
 file = "config/boundless-common.toml"
-hash = "f92d0ef89dadedf7779ab2b2985da6a782b082e902bbea3b0a8f0238d875e790"
+hash = "84b70cf84d71fef1869b0045d73daa1673bd3e93b1c1103b2f31a885849974db"
 
 [[files]]
 file = "config/boundless/quest_state/default.json"
@@ -93,239 +93,127 @@ file = "config/boundless/quest_state/sp_New_World.json"
 hash = "c34b583e885d437c08e89342c6441b8e20737dca1d48c4e212b4398707908381"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/boundless/pack.json"
+file = "config/boundless/questpacks/AugustMC.upload/boundless/pack.json"
 hash = "154a5f12fa4daafbfb1cd4bc501e04ed4d809f77bd07bf325ebd50d1babfab87"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/01-01w.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/01-01w.json"
 hash = "a4cd438acefc97e84afb055eb0119342bcd229e6c4bb243d14ecbb654d0e2f45"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/01-place02.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/01-place02.json"
 hash = "55c322d3ec9e5e84fda6520f678393d6db703b687128a9c9eb9741b28c40aa91"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/01-ragdoll.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/01-ragdoll.json"
 hash = "aebc5b032e5602a27a9cbdf6ba29171c4b792b18351508b81825eacd41da985c"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/01-recipes.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/01-recipes.json"
 hash = "08e1095732435080896813130c442ab54912a4377b435cd1e18121bdc7613c51"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/02-02w.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/02-02w.json"
 hash = "1508bbef34ebf4212b5da91c6c7d9025605dd357a38cb94dd0885ff8adeb709f"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/02-grab.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/02-grab.json"
 hash = "bfe081f61ed21e51bbe4ad288890e66710cb00ffd4940e9e508c209644400532"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/02-iteminfo.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/02-iteminfo.json"
 hash = "455510a13ffb2cd0dae26082c37b761f16beaf1413e9defd735a5e00d8f4f98a"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/02-place01.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/02-place01.json"
 hash = "2727dcd8f20046433ae5829244c3e5f6a665190fafaa99318ede0998a338ca30"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/03-02s_seasons.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/03-02s_seasons.json"
 hash = "514d0530e02e1001663f75b513341f49f1185eca8d9bd52a805865bf9181a98f"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/03-uses.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/03-uses.json"
 hash = "b699f9d2db19c537fade4d3ec5960fcde2b3f64c8d5df27755fe5b1ba5c85720"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/04-nerdfs.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/04-nerdfs.json"
 hash = "31766fb72c709743b18227fb85f5254aeef4c749d418d755dc0c8da4206643eb"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/05-villager.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/05-villager.json"
 hash = "bd52c77b258449867324de73bd4f488f1df3f0316dd51cfd484025db57aceb5f"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/06-03w.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/06-03w.json"
 hash = "f0b77357e23b3b2d49241a4b17727e9542801e9ebd454689213ad2f27b63f4c2"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/08-purpose.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/08-purpose.json"
 hash = "6637a956f79f88d7324b4c1c2e8554fb9e72735609724b56694c08e09b5602c5"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/13-camera.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/13-camera.json"
 hash = "6071f4f197a026b48f7337a0db64d79e60c00be710d16a2a7771d5f3d9b1a623"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/14-camera_slides.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/14-camera_slides.json"
 hash = "1e0a66425209a8e82ea20f490d4c55cfae08794c3b6b46a2eb0683b4cffcf262"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/16-freestuff.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/16-freestuff.json"
 hash = "754dd0e5f9288991707410dc2a91cb341c1233cb35fa29434e3681e9bff24833"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/17-missing_guide.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/17-missing_guide.json"
 hash = "79dc7742e018f752ef7993127cb29fb63bff7f3125ee0d3eb98456664cf0c71f"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/18-spyglass.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/18-spyglass.json"
 hash = "6a40ec5c9bddf06f8cbe194589faae6489b37764913514a70c2cd3bce6a214b9"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/19-map.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/19-map.json"
 hash = "14bc1128a117d9846a4c5d09cc504a10f962e8fca138d8fbb963e9867c4fdeac"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/20-album.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/20-album.json"
 hash = "a5f16c6216ada03ca195a6e30ccc94dad1d41eeb0e5e9e6cbd2cc8158ce61ac8"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/categories/content.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/categories/content.json"
 hash = "e5fbce08d0f8bd2e842206e0346600912374f656c129060122545cd998f7159b"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/categories/main.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/categories/main.json"
 hash = "a2c7d0e8a90001acb486f4a19ae461f038a6852c2566eb9f4ab0ce9d08b27dee"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/categories/stuff.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/categories/stuff.json"
 hash = "a64c02dc91550daec530df6aa926673a4394ba9a7612b4ada13dc4db3bd13a9d"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/categories/world.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/categories/world.json"
 hash = "323be1c089e6b0ef16e16a677f2cdee0f6ecd2250ffdd6b741e28720b8917462"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/sub-category/0important.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/sub-category/0important.json"
 hash = "2d6cf01c2fd225728080cb014c693ef14c1c5f49a30013834a1cd76e41f9398d"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/sub-category/building.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/sub-category/building.json"
 hash = "af42da358d8d8f5e032412df3463f3202eb6785751c07067dbbe93c2e01a6819"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/sub-category/controls.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/sub-category/controls.json"
 hash = "94ddcc67c273afa58114676d6ecdc3a1d1ada28c0fc6a42d1a05f0bc64241981"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/sub-category/inventory.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/sub-category/inventory.json"
 hash = "488b25b6213fb2a809b22314569de8028fe2a7a9d1fbf6663efea70a9638460f"
 
 [[files]]
-file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/sub-category/photography.json"
-hash = "0177caede108231d6f8e968436b52ca4c4978ecead26f3c8ad68539211e580f7"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/boundless/pack.json"
-hash = "154a5f12fa4daafbfb1cd4bc501e04ed4d809f77bd07bf325ebd50d1babfab87"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/01-place02.json"
-hash = "920dcc4f78d73a6af0e6438ea20497eab62391e675817c75525e5efb4d2c9d42"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/01-ragdoll.json"
-hash = "aebc5b032e5602a27a9cbdf6ba29171c4b792b18351508b81825eacd41da985c"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/01-recipes.json"
-hash = "7f8fa64c70f964562d78c25a3ae4f6c21ab4dc61645b152fadc42b3f02007811"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/02-grab.json"
-hash = "3e4d60aa2b4a98d7a8c7a2cd9a83fa2b89a25d4401e71bdd5ff76d31d4c61918"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/02-iteminfo.json"
-hash = "455510a13ffb2cd0dae26082c37b761f16beaf1413e9defd735a5e00d8f4f98a"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/02-place01.json"
-hash = "a46b716930ce14df347b3c886f4e83924549d10bc7a866d1b98dc5d03732d93c"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/03-uses.json"
-hash = "9c20ca9a0c06627b433174d34810a570c646955ab816aea4d48ad5f0346c9381"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/08-purpose.json"
-hash = "011ddc1761cd8ee497668d77053b21637bd79d90ee7102f128c0cf6a34345262"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/09-01w.json"
-hash = "faddd5d82cce35b6b4c103e5ef6515c748de83e775f36b2297818e9cc403aee5"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/10-02w.json"
-hash = "1508bbef34ebf4212b5da91c6c7d9025605dd357a38cb94dd0885ff8adeb709f"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/11-03w.json"
-hash = "f0b77357e23b3b2d49241a4b17727e9542801e9ebd454689213ad2f27b63f4c2"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/12-nerdfs.json"
-hash = "31766fb72c709743b18227fb85f5254aeef4c749d418d755dc0c8da4206643eb"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/13-camera.json"
-hash = "6071f4f197a026b48f7337a0db64d79e60c00be710d16a2a7771d5f3d9b1a623"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/14-camera_slides.json"
-hash = "1e0a66425209a8e82ea20f490d4c55cfae08794c3b6b46a2eb0683b4cffcf262"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/15-villager.json"
-hash = "bd52c77b258449867324de73bd4f488f1df3f0316dd51cfd484025db57aceb5f"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/16-freestuff.json"
-hash = "dbdf1ffe128da9960de38858d9697555ccc63f2ecf5d0d219c864b653dbfdaf8"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/17-missing_guide.json"
-hash = "da2b7f3fa4e72637a7708b0e1133b45b72ea6c427ecdb9aa4aa7fbddc0cad7a3"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/18-place_sim.json"
-hash = "a6e0193c8d4d5b2989fcca353096143fafcd99843dc74784ba10e893cbc050ef"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/categories/content.json"
-hash = "e5fbce08d0f8bd2e842206e0346600912374f656c129060122545cd998f7159b"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/categories/main.json"
-hash = "a2c7d0e8a90001acb486f4a19ae461f038a6852c2566eb9f4ab0ce9d08b27dee"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/categories/stuff.json"
-hash = "a64c02dc91550daec530df6aa926673a4394ba9a7612b4ada13dc4db3bd13a9d"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/categories/world.json"
-hash = "323be1c089e6b0ef16e16a677f2cdee0f6ecd2250ffdd6b741e28720b8917462"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/sub-category/0important.json"
-hash = "2d6cf01c2fd225728080cb014c693ef14c1c5f49a30013834a1cd76e41f9398d"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/sub-category/building.json"
-hash = "af42da358d8d8f5e032412df3463f3202eb6785751c07067dbbe93c2e01a6819"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/sub-category/controls.json"
-hash = "94ddcc67c273afa58114676d6ecdc3a1d1ada28c0fc6a42d1a05f0bc64241981"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/sub-category/inventory.json"
-hash = "488b25b6213fb2a809b22314569de8028fe2a7a9d1fbf6663efea70a9638460f"
-
-[[files]]
-file = "config/boundless/questpacks/AugustMC/data/augustmc/quests/sub-category/photography.json"
+file = "config/boundless/questpacks/AugustMC.upload/data/augustmc/quests/sub-category/photography.json"
 hash = "0177caede108231d6f8e968436b52ca4c4978ecead26f3c8ad68539211e580f7"
 
 [[files]]
