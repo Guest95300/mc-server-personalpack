@@ -1266,16 +1266,6 @@ hash = "771ec8fe583e421e3835e1abb3c8a2314d170fbf7914dbb26f79f2f4274fce09"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "9ae196fff2bd163f13fdddd56b4b03bedc07a7aa6a571eb475fc0e9a9a44a07c"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "aaf9a807998109d73b5cca105258a9f13adbd77ceecbd233992e5ed6d188b557"
-metafile = true
-
-[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "78ef3cc7b148a54831b4a35a5c3a63bdb3dfda4c22d081d108edecce14a716f0"
 metafile = true
