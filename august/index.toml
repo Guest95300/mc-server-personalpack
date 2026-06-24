@@ -958,7 +958,7 @@ hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
 [[files]]
 file = "config/keybindhider.json"
-hash = "73263cc6dff6d6a0e7dec9d917a04a08c827fde37958dc2a5a4caac76786f8a3"
+hash = "94143c8328fa221d971fe0be4e63526e6309964d609a0d8767ea8456187dfb4f"
 
 [[files]]
 file = "config/mob-ai-tweaks/blacklists/allay_weapons.txt"
