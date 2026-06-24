@@ -1,0 +1,21 @@
+{
+  "id": "album",
+  "name": "Photo Album",
+  "icon": "exposure:album",
+  "description": "/yHeres a photo album to keep your photos!/x\n\nThis also /wcounts as a world map/minimap item/x when present in your inventory!\n\n\n\n\n\n/iIt\u0027s not like I\u0027m tying an essential game /imechanic to a niche item to get people to /itake photos or anything!",
+  "category": "stuff",
+  "sub-category": "photography",
+  "optional": false,
+  "repeatable": true,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "reward": {
+    "items": [
+      {
+        "item": "exposure:album",
+        "count": 1
+      }
+    ]
+  }
+}

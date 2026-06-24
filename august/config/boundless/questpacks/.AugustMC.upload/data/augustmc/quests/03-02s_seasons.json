@@ -1,0 +1,12 @@
+{
+  "id": "02s_seasons",
+  "name": "Seasons",
+  "icon": "sereneseasons:ss_icon",
+  "description": "/rWhy won\u0027t some crops grow?/x\n\nCrops now depend on the season.\n\nYou can build a greenhouse if you really want to stick to one food source.\n\n\n/g Grass, snow, leaves, foliage, all have lovely new colors./x",
+  "category": "world",
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false
+}

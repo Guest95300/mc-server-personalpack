@@ -1,0 +1,21 @@
+{
+  "entity.caverns_and_chasms.blunt_arrow.description": "Used to knock back entities without dealing damage. Tipped with spinel.",
+  "entity.caverns_and_chasms.copper_golem.description": "Formed when you place a lightning rod on top of a carved pumpkin, these golems press copper buttons at random. The more oxidized, the slower they are, until they freeze into place.",
+  "entity.caverns_and_chasms.deeper.description": "A stony creature with an odd likeness to furnaces. They break blocks, unlike the surface-dwelling creeper.",
+  "entity.caverns_and_chasms.glare.description": "A frail, passive creature which lives in lush caves and feeds off of glow berries. They will follow you and alert you of darkness when fed.",
+  "entity.caverns_and_chasms.kunai.description": "Somehow hasn't shattered yet.",
+  "entity.caverns_and_chasms.large_arrow.description": "How does one even fire this?",
+  "entity.caverns_and_chasms.lost_goat.description": "That's not a goat...",
+  "entity.caverns_and_chasms.mime.description": "A chaotic, disconcertingly humanoid creature which mimics your movement, and equipment on contact. Drops Spinel.",
+  "entity.caverns_and_chasms.oxidized_copper_golem.description": "It's entirely frozen- may be picked up with a pickaxe to be carried around.",
+  "entity.caverns_and_chasms.peeper.description": "It's unnerving to look at. Moves only when you do, and is not worth getting too close.",
+  "entity.caverns_and_chasms.spinel_pearl.description": "An unorthodox magenta ender pearl, it will teleport you to a location midair depending on how long you draw it. Shorter draw, longer distance.",
+  "entity.caverns_and_chasms.tmt.description": "Bang!",
+  "tag.clutternomore.steps.description": "A block that can be stepped up without jumping, good for when a stair is just too big.",
+  "tag.clutternomore.vertical_slabs.description": "Half of a normal block. Great for texturing builds.",
+  "entity.galosphere.spectre.description": "Right Click a Spectre with a Allurite Shard, then a Spyglass to bind the Spyglass to the Spectre. Breed with Lichen Shelfs to create Specterpillars, which burrow into Lichen to form Cordyceps.",
+  "entity.galosphere.specterpillar.description": "Right Click a Spectre with a Allurite Shard, then a Spyglass to bind the Spyglass to the Spectre. Breed with Lichen Shelfs to create Specterpillars, which burrow into Lichen to form Cordyceps.",
+  "entity.galosphere.sparkle.description": "Right Click a Sparkle with a pickaxe to harvest their shards. Silk Touch pickaxes grant clusters instead. Feed Glow Lichen to increase the speed at which they regrow their crystals, and may be bred with crystals. They pollinate crystal clusters to glint and sparkle.",
+  "entity.galosphere.preserved.description": "A headless zombie that persists solely through pink salts.",
+  "entity.galosphere.berserker.description": "A gargantuan creature preserved in salt found in salt shrines."
+}

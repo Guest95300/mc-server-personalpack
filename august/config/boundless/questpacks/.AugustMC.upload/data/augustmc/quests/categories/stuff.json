@@ -1,0 +1,7 @@
+{
+  "id": "stuff",
+  "name": "Things",
+  "icon": "supplementaries:slingshot",
+  "order": 3,
+  "auto_complete": false
+}

@@ -1,0 +1,2476 @@
+{
+  "version": 1,
+  "items": {
+    "addon_gancho:conector": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "addon_gancho:grapple_swing": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "aeronautics:adjustable_burner": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "aeronautics:levitite": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "aeronautics:pearlescent_levitite": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "aeronautics:steam_vent": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "aeronautics:white_envelope": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "amendments:dragon_charge": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "misc"
+      }
+    },
+    "bits_n_bobs:cable_girder_strut": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "bits_n_bobs:chain_pulley": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "bits_n_bobs:cogwheel_chain_carriage": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "bits_n_bobs:flywheel_bearing": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "kinetics"
+      }
+    },
+    "bits_n_bobs:girder_strut": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "bits_n_bobs:headlamp": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "lighting"
+      }
+    },
+    "bits_n_bobs:large_flanged_cogwheel": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "kinetics"
+      }
+    },
+    "bits_n_bobs:large_nixie_tube": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "redstone"
+      }
+    },
+    "bits_n_bobs:lightbulb": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "lighting"
+      }
+    },
+    "bits_n_bobs:nixie_board": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "redstone"
+      }
+    },
+    "bits_n_bobs:small_flanged_cogwheel": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "kinetics"
+      }
+    },
+    "bits_n_bobs:weathered_girder_strut": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "bits_n_bobs:weathered_metal_bracket": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "kinetics"
+      }
+    },
+    "bits_n_bobs:weathered_metal_girder": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "bits_n_tracks:cog_alignment_lever": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "bits_n_tracks:industrial_belt": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "boundless:quest_completion_scroll": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "books"
+      }
+    },
+    "burnt:soot": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": "mineral"
+      }
+    },
+    "caverns_and_chasms:bejeweled_pearl": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "magic",
+        "ontologySubcategory": "reagents"
+      }
+    },
+    "caverns_and_chasms:bone_flute": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "caverns_and_chasms:cave_growths": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "caverns_and_chasms:depth_gauge": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "navigation"
+      }
+    },
+    "caverns_and_chasms:grainy_cave_growths": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "caverns_and_chasms:kunai": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "ranged"
+      }
+    },
+    "caverns_and_chasms:living_flesh": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": "organic"
+      }
+    },
+    "caverns_and_chasms:lost_goat_horn": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "caverns_and_chasms:lurid_cave_growths": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "caverns_and_chasms:ominous_trial_token": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "misc"
+      }
+    },
+    "caverns_and_chasms:oxidized_copper_golem": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "caverns_and_chasms:packing_container": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "utility"
+      }
+    },
+    "caverns_and_chasms:storage_duct": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "caverns_and_chasms:storage_duct_hatch": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "caverns_and_chasms:tinplate": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "caverns_and_chasms:tmt": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "redstone"
+      }
+    },
+    "caverns_and_chasms:trial_token": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "misc"
+      }
+    },
+    "caverns_and_chasms:unicorn_horn": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "misc"
+      }
+    },
+    "caverns_and_chasms:waxed_oxidized_copper_golem": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "caverns_and_chasms:weird_cave_growths": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "caverns_and_chasms:wispy_cave_growths": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "caverns_and_chasms:zesty_cave_growths": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "cdmoveset:katana": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "melee"
+      }
+    },
+    "cdmoveset:yamato": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "melee"
+      }
+    },
+    "clockwork:clockwork_drill": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "clockwork:clockwork_flamethrower": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "ranged"
+      }
+    },
+    "clockwork:clockwork_gear": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "clockwork:clockwork_potion_sprayer": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "clockwork:crossbow_barrel": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:andesite_door": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "functional"
+      }
+    },
+    "create:attribute_filter": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "logistics"
+      }
+    },
+    "create:basin": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create:blaze_burner": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create:bound_cardboard_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "full_block"
+      }
+    },
+    "create:brass_bars": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "create:brass_casing": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:brass_door": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "functional"
+      }
+    },
+    "create:brass_ladder": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "functional"
+      }
+    },
+    "create:brass_scaffolding": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "functional"
+      }
+    },
+    "create:brass_sheet": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:brown_toolbox": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "create:cardboard": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:cardboard_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "full_block"
+      }
+    },
+    "create:controls": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "trains"
+      }
+    },
+    "create:copper_bars": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "create:copper_casing": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:copper_door": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "functional"
+      }
+    },
+    "create:copper_ladder": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "functional"
+      }
+    },
+    "create:copper_scaffolding": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "functional"
+      }
+    },
+    "create:copper_sheet": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:copycat_panel": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "create:copycat_step": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "create:crafter_slot_cover": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "kinetics"
+      }
+    },
+    "create:crafting_blueprint": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create:crushed_raw_copper": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:crushed_raw_gold": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:crushed_raw_iron": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:crushed_raw_silver": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:crushed_raw_tin": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:crushed_raw_zinc": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:display_board": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create:display_link": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "logistics"
+      }
+    },
+    "create:electron_tube": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:empty_blaze_burner": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create:extendo_grip": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "create:filter": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "logistics"
+      }
+    },
+    "create:framed_glass_door": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "functional"
+      }
+    },
+    "create:golden_sheet": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:handheld_worldshaper": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "create:iron_sheet": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:linked_controller": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "create:metal_bracket": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "kinetics"
+      }
+    },
+    "create:metal_girder": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "create:minecart_coupling": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "transport"
+      }
+    },
+    "create:nixie_tube": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "redstone"
+      }
+    },
+    "create:package_filter": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "logistics"
+      }
+    },
+    "create:portable_fluid_interface": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create:portable_storage_interface": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create:railway_casing": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "trains"
+      }
+    },
+    "create:red_seat": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "create:steam_whistle": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create:stockpile_switch": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "logistics"
+      }
+    },
+    "create:sturdy_sheet": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:super_glue": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "create:train_door": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "functional"
+      }
+    },
+    "create:transmitter": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create:tree_fertilizer": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "create:wooden_bracket": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "kinetics"
+      }
+    },
+    "create:wrench": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "create_aeronautics_toolgun:magnetic_gun": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "create_aeronautics_toolgun:survival_structure_tool": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "create_connected:brass_chute": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "logistics"
+      }
+    },
+    "create_connected:control_chip": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "create_connected:creative_fluid_vessel": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "fluids"
+      }
+    },
+    "create_connected:dashboard": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "logistics"
+      }
+    },
+    "create_connected:empty_fan_catalyst": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create_connected:fan_blasting_catalyst": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create_connected:fan_haunting_catalyst": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create_connected:fan_smoking_catalyst": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create_connected:fan_splashing_catalyst": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create_connected:fluid_vessel": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "fluids"
+      }
+    },
+    "create_connected:inventory_access_port": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "logistics"
+      }
+    },
+    "create_connected:inventory_bridge": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "logistics"
+      }
+    },
+    "create_connected:item_silo": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "logistics"
+      }
+    },
+    "create_connected:sequenced_pulse_generator": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "redstone"
+      }
+    },
+    "create_lnl:contraption_lift": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "create_lnl:large_slime_tire": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create_lnl:monstrous_slime_tire": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create_lnl:physic_welder": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "create_lnl:slime_tire": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create_lnl:small_slime_tire": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "create_lnl:thruster": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "createharmonics:record_press_base": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "createthrusters:andesite_cable": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "logistics"
+      }
+    },
+    "createthrusters:claw": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "createthrusters:entity_launcher": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "createthrusters:gyroscope_link": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "logistics"
+      }
+    },
+    "createthrusters:oxidized_creative_blaze_cake": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": ""
+      }
+    },
+    "createthrusters:powered_zipline": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "createthrusters:shipping_manifest": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "logistics"
+      }
+    },
+    "createthrusters:thruster_lense": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "endermanoverhaul:corrupted_blade": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "endermanoverhaul:enderman_tooth": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": "organic"
+      }
+    },
+    "epicfight:glove": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "melee"
+      }
+    },
+    "epicfight:uchigatana": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "melee"
+      }
+    },
+    "exposure:camera": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "camera"
+      }
+    },
+    "galosphere:broken_echo_bell": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": ""
+      }
+    },
+    "galosphere:burrow_anchor": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "galosphere:mole_burrow": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "galosphere:monstrometer": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "galosphere:opal": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": "mineral"
+      }
+    },
+    "galosphere:opal_flakes": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "galosphere:palladium_bomb": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "ranged"
+      }
+    },
+    "galosphere:rope_dart": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "utility"
+      }
+    },
+    "galosphere:saltbound_tablet": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "magic",
+        "ontologySubcategory": "artifacts"
+      }
+    },
+    "galosphere:shadow_frame": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "magic",
+        "ontologySubcategory": "artifacts"
+      }
+    },
+    "galosphere:silverfish": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": ""
+      }
+    },
+    "galosphere:spectre_flare": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "ammo"
+      }
+    },
+    "galosphere:stranded_membrane_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "minecraft:acacia_hanging_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:acacia_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:bamboo_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "full_block"
+      }
+    },
+    "minecraft:bamboo_chest_raft": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "transport"
+      }
+    },
+    "minecraft:bamboo_hanging_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:bamboo_mosaic": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "full_block"
+      }
+    },
+    "minecraft:bamboo_raft": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "transport"
+      }
+    },
+    "minecraft:bamboo_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:beacon": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "magic",
+        "ontologySubcategory": "artifacts"
+      }
+    },
+    "minecraft:birch_hanging_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:birch_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:brush": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "minecraft:carrot_on_a_stick": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "minecraft:chain": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:charcoal": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": "mineral"
+      }
+    },
+    "minecraft:cherry_hanging_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:cherry_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:coal": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": "mineral"
+      }
+    },
+    "minecraft:composter": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "minecraft:conduit": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "magic",
+        "ontologySubcategory": "artifacts"
+      }
+    },
+    "minecraft:creaking_heart": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "fungi"
+      }
+    },
+    "minecraft:dark_oak_hanging_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:dark_oak_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:diamond_axe": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:diamond_boots": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:diamond_chestplate": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:diamond_helmet": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:diamond_hoe": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:diamond_leggings": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:diamond_pickaxe": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:diamond_shovel": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:diamond_sword": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:dried_ghast": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:enchanting_table": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:end_portal_frame": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "magic",
+        "ontologySubcategory": "artifacts"
+      }
+    },
+    "minecraft:end_rod": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:fire_charge": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "misc"
+      }
+    },
+    "minecraft:fishing_rod": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "minecraft:flint_and_steel": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "minecraft:glowstone_dust": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": "mineral"
+      }
+    },
+    "minecraft:hay_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "crops"
+      }
+    },
+    "minecraft:iron_bars": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:jungle_hanging_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:jungle_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:ladder": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "functional"
+      }
+    },
+    "minecraft:lodestone": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "navigation"
+      }
+    },
+    "minecraft:loom": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "minecraft:mangrove_hanging_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:mangrove_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:netherite_axe": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:netherite_boots": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:netherite_chestplate": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:netherite_helmet": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:netherite_hoe": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:netherite_leggings": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:netherite_pickaxe": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:netherite_shovel": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:netherite_sword": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "minecraft:oak_hanging_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:oak_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:pale_oak_hanging_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:pale_oak_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:resin_brick": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": "mineral"
+      }
+    },
+    "minecraft:resin_clump": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": "organic"
+      }
+    },
+    "minecraft:scaffolding": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "functional"
+      }
+    },
+    "minecraft:shield": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "utility"
+      }
+    },
+    "minecraft:slime_ball": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "minecraft:slime_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "minecraft:sniffer_egg": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "misc"
+      }
+    },
+    "minecraft:snow": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "minecraft:snowball": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "misc"
+      }
+    },
+    "minecraft:spruce_hanging_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:spruce_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "minecraft:stripped_bamboo_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "full_block"
+      }
+    },
+    "minecraft:sulfur_spike": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "geology",
+        "ontologySubcategory": "stone"
+      }
+    },
+    "minecraft:trident": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "ranged"
+      }
+    },
+    "minecraft:turtle_egg": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "misc"
+      }
+    },
+    "minecraft:warped_fungus_on_a_stick": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "minecraft:wind_charge": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "minecraft:wooden_sword": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "melee"
+      }
+    },
+    "nomansland:barrel_cactus": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:cattail": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:dried_grass": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:duckweed": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:explosive": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "ranged"
+      }
+    },
+    "nomansland:fiddlehead": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:firebomb": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "ranged"
+      }
+    },
+    "nomansland:frosted_grass": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:icicles": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:ink_bomb": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "ranged"
+      }
+    },
+    "nomansland:maple_hanging_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "nomansland:maple_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "nomansland:pebbles": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:pine_hanging_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "nomansland:pine_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "nomansland:reeds": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:resin": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": "mineral"
+      }
+    },
+    "nomansland:rose_vines": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:seashells": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:shelf_mushroom_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "fungi"
+      }
+    },
+    "nomansland:short_beachgrass": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:spike_trap": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "nomansland:straw_bed": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "nomansland:succulent": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:tall_beachgrass": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:tap": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "nomansland:tortoise_egg": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "misc"
+      }
+    },
+    "nomansland:walnut_hanging_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "nomansland:walnut_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "nomansland:water_mosaic": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "nomansland:willow_hanging_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "nomansland:willow_sign": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "nomansland:wooden_platform": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "nomansland:wooden_scaffolding": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "functional"
+      }
+    },
+    "offroad:large_tire": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "offroad:monstrous_tire": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "offroad:rockcutting_wheel": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "offroad:small_tire": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "offroad:tire": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "ponderer:life_size_projector": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "ponderer:miniature_projector": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "redomesticate:collar_tag": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "misc"
+      }
+    },
+    "redomesticate:deed_of_ownership": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "misc"
+      }
+    },
+    "redomesticate:feather_on_a_stick": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "misc"
+      }
+    },
+    "redomesticate:wayward_lantern": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "misc"
+      }
+    },
+    "sereneseasons:calendar": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "simulated:docking_connector": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "simulated:engine_assembly": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "materials"
+      }
+    },
+    "simulated:honey_glue": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "simulated:laser_pointer": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "simulated:linked_typewriter": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "redstone"
+      }
+    },
+    "simulated:physics_assembler": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "simulated:redstone_magnet": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "simulated:rope_connector": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "simulated:spring": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "kinetics"
+      }
+    },
+    "simulated:white_nameplate": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "simulated:white_symmetric_sail": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "create",
+        "ontologySubcategory": "contraptions"
+      }
+    },
+    "sophisticatedbuilding:diamond_randomizer_bag": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "sophisticatedbuilding:golden_randomizer_bag": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "sophisticatedbuilding:omega_randomizer_bag": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "sophisticatedbuilding:randomizer_bag": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "spearcore:diamond_spear": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "spearcore:netherite_spear": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "disabled",
+        "ontologySubcategory": ""
+      }
+    },
+    "supplementaries:ash_brick": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": "mineral"
+      }
+    },
+    "supplementaries:awning": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "supplementaries:bamboo_spikes": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "supplementaries:barnacles": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "supplementaries:bomb": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "ranged"
+      }
+    },
+    "supplementaries:bomb_blue": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "ranged"
+      }
+    },
+    "supplementaries:cage": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "supplementaries:cannonball": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tools",
+        "ontologySubcategory": "ammo"
+      }
+    },
+    "supplementaries:clock_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "redstone"
+      }
+    },
+    "supplementaries:cog_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "redstone"
+      }
+    },
+    "supplementaries:confetti_popper": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "misc"
+      }
+    },
+    "supplementaries:doormat": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "supplementaries:fire_pit": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "supplementaries:flower_box": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "supplementaries:fodder": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "supplementaries:globe": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "supplementaries:globe_sepia": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "supplementaries:gold_gate": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "supplementaries:hat_stand": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "supplementaries:hourglass": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "supplementaries:iron_gate": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "supplementaries:lock_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "supplementaries:notice_board": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "supplementaries:pedestal": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "supplementaries:present": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "supplementaries:pulley_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "supplementaries:rope": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "utility",
+        "ontologySubcategory": "tools"
+      }
+    },
+    "supplementaries:spring_launcher": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "supplementaries:timber_frame": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "functional"
+      }
+    },
+    "supplementaries:trapped_present": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    },
+    "supplementaries:upgrade_aquatic/way_sign_driftwood": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "supplementaries:upgrade_aquatic/way_sign_river": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "supplementaries:urn": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "upgrade_aquatic:bedroll": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": "furniture"
+      }
+    },
+    "upgrade_aquatic:chiseled_scute_shingles": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "full_block"
+      }
+    },
+    "upgrade_aquatic:kelp_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "full_block"
+      }
+    },
+    "upgrade_aquatic:pickerelweed": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "nature",
+        "ontologySubcategory": "flora"
+      }
+    },
+    "upgrade_aquatic:pickerelweed_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "full_block"
+      }
+    },
+    "upgrade_aquatic:prismarine_rod_bundle": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "full_block"
+      }
+    },
+    "upgrade_aquatic:scute_block": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "full_block"
+      }
+    },
+    "upgrade_aquatic:scute_pavement": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "full_block"
+      }
+    },
+    "upgrade_aquatic:scute_shingles": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "masonry",
+        "ontologySubcategory": "full_block"
+      }
+    },
+    "upgrade_aquatic:thrasher_tooth": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "ingredients",
+        "ontologySubcategory": "organic"
+      }
+    },
+    "vista:television": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "decoration",
+        "ontologySubcategory": ""
+      }
+    },
+    "vista:viewfinder": {
+      "type": "ITEM",
+      "metadata": {
+        "ontologyCategory": "tech",
+        "ontologySubcategory": "machines"
+      }
+    }
+  }
+}

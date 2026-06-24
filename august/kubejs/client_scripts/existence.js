@@ -1,5 +1,11 @@
-// kubejs/client_scripts/emi_removed_items.js
-// KubeJS 1.21.1 | NeoForge | Works with EMI, JEI, and REI via RecipeViewerEvents
+RecipeViewerEvents.removeCategories(event => {
+    console.log(event.categoryIds)
+	event.remove('minecraft:smithing')
+	event.remove('emi:anvil_repairing')
+	event.remove('emi:grinding')
+    event.remove('minecraft:anvil')
+})
+
 
 // ─────────────────────────────────────────────
 //  CONFIG — add any item IDs you want hidden
@@ -27,11 +33,6 @@ const REMOVED_ITEMS = [
  'spearcore:diamond_spear', 
  'spearcore:netherite_spear'
 ];
-
-
-RecipeViewerEvents.removeEntries('item', event => {
-    event.remove('minecraft:enchanted_book');
-});
 
 ItemEvents.modifyTooltips(event => {
     for (const item of REMOVED_ITEMS) {

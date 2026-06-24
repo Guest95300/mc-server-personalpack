@@ -1,0 +1,13 @@
+{
+  "id": "spyglass",
+  "name": "Zoom",
+  "icon": "minecraft:spyglass",
+  "description": "While having a /lspyglass/x anywhere in your inventory, /ghold [C]/x to zoom in.\n\nThis also allows you to /lview mob and block /linformation from far away./x\n\n/iSpyglasses also have special enchantments./x",
+  "category": "main",
+  "sub-category": "controls",
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false
+}

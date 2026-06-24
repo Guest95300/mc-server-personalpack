@@ -1,0 +1,17 @@
+filename = 'KotlinLangForge-2.12.1-k2.4.0-3.0+neoforge.jar'
+name = 'KotlinLangForge'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.20.5', '1.20.6', '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.12.1-k2.4.0-3.0+neoforge'
+
+[download]
+hash = '6f18bd7407bc6a04703d5a2f0c34ee384fa20245ddbef6bdcf1a4aa86074041ef390e739eb2e30c5366d8ac27fc1ae4df8793eac0e94b85c845a5a0280eb1d48'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1vrSzlao/versions/j7m3xyCe/KotlinLangForge-2.12.1-k2.4.0-3.0%2Bneoforge.jar'
+
+[update.modrinth]
+mod-id = '1vrSzlao'
+version = 'j7m3xyCe'

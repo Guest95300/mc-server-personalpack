@@ -6,6 +6,7 @@ RecipeViewerEvents.removeCategories(event => {
 	event.remove('minecraft:smithing')
 	event.remove('emi:anvil_repairing')
 	event.remove('emi:grinding')
+    event.remove('minecraft:anvil')
 })
 
 

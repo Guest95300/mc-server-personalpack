@@ -1,0 +1,12 @@
+{
+  "id": "missing_guide",
+  "name": "Content, Mobs, Biomes",
+  "icon": "minecraft:diamond",
+  "description": "Not much time for me to explain everything. You can always ask around but-\n\n/y/lExplore the world as you wish. Discover /y/lthe small things./x\n\nI made this modpack to make sure nobody misses out on anything in terms of progression after all.\n\nI\u0027ll be building, relaxing. and working to improve this new game.\n\n/pWhat about you?/x",
+  "category": "content",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false
+}

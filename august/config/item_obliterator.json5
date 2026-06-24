@@ -97,7 +97,7 @@
      "aeronautics_utility_objects:creative_hydraulic_rod",
      "createthrusters:oxidized_creative_blaze_cake",
      "createharmonics:creative_ethereal_record",
-     "create_lnl:contraption_lift"
+     "bits_n_bobs:cogwheel_chain_carriage"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

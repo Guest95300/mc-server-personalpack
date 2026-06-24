@@ -1,0 +1,5 @@
+
+gamerule keepInventory true
+gamerule disableElytraMovementCheck true
+gamerule playersSleepingPercentage 67
+gamerule doInsomnia false

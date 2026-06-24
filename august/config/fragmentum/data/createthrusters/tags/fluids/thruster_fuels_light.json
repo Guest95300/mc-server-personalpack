@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "immersiveengineering:biodiesel",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:ethanol",
+      "required": false
+    }
+  ]
+}

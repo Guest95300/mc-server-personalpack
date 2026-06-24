@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "ami/ami-export-awnings-README.md"
-hash = "94ce4f2892cfe1262aa2dc51b5afb3d82ec21da58be4dacb0226f03bdb1853b4"
-
-[[files]]
-file = "ami/ami-export-buntings-README.md"
-hash = "8020c7a1bb53705ca4723f5ae9f8af8efc29978dd872428cc681fd0ba59c2a63"
-
-[[files]]
-file = "ami/ami-export-camera-README.md"
-hash = "8ac0b9809d6d425ba9a00fb763c31a21d3d56f70a82576dc0276d49904819e01"
-
-[[files]]
-file = "ami/ami-export-presents-README.md"
-hash = "2d1941e59cbbe21af419a12268fef94484546f3e75ca404ac086f74260f979e9"
-
-[[files]]
-file = "ami/ami-export-sparklers-README.md"
-hash = "e2fd7d0ebcca9a0d2894fffcd087d69638c6508e21c95132309cde83006a5fa7"
-
-[[files]]
-file = "ami/ami-export-trapped_white_presents-README.md"
-hash = "a10feb2cbf3d01baff163aa2005b2b644a9cbf1644fdd2b059a55341f5d2e5ff"
-
-[[files]]
 file = "ami/taxonomy/ami-export-awnings.json"
 hash = "00bbd530d0c9291fd3b89abde1dbf3d23f04e3eb167110b23a666d9ec71dc15a"
 
@@ -81,12 +57,32 @@ file = "ami/taxonomy/transmlinkage.json"
 hash = "18a5519e5b025ed4c28f99c270aed08f4d73073d39c2764325d643ea5e667a90"
 
 [[files]]
+file = "config/ami-client.json"
+hash = "d4292670ff7fd486ea4b044afe8b8c3b526d58b52e7c900a65ae29ce55f74920"
+
+[[files]]
+file = "config/ami/fixes.json"
+hash = "3a496003e0d9433a009076308f67cf05b8d2450377d00d23f353531944e4627f"
+
+[[files]]
+file = "config/bits_n_bobs-server.toml"
+hash = "1e41b5bfdbdcaaefff215a3472c8a9c6908114f9d81257dfcba39223db67533a"
+
+[[files]]
+file = "config/boundless-common.toml"
+hash = "f92d0ef89dadedf7779ab2b2985da6a782b082e902bbea3b0a8f0238d875e790"
+
+[[files]]
 file = "config/boundless/quest_state/default.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "config/boundless/quest_state/mp_192.168.8.108_25565.json"
+hash = "9fe9959e17749d3303668dd700f2d7859c021339dfa6ab923f816f91068bf8fa"
+
+[[files]]
 file = "config/boundless/quest_state/mp_209.25.142.31_1047.json"
-hash = "918ff5f9bd26bc1b92149bbefa7137bc0ccbf1075cb7e0f46c5a2256a2fc1e28"
+hash = "a0dcf883e95381842ca1a5d5d7f8483eba38820d12e091d701159a20e3dc7b78"
 
 [[files]]
 file = "config/boundless/quest_state/mp__2001_3__5445_695d_1458_a13e__25565.json"
@@ -94,7 +90,131 @@ hash = "ae28d708ae2d86daf2b4c15826a831dfeec5d03db19c286220cb7c3726cf1d1d"
 
 [[files]]
 file = "config/boundless/quest_state/sp_New_World.json"
-hash = "94cc501c5e89b0eaa1fd58e4505097b1ff96e91fa1ea7611b7b3be7c784bcd33"
+hash = "c34b583e885d437c08e89342c6441b8e20737dca1d48c4e212b4398707908381"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/boundless/pack.json"
+hash = "154a5f12fa4daafbfb1cd4bc501e04ed4d809f77bd07bf325ebd50d1babfab87"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/01-01w.json"
+hash = "a4cd438acefc97e84afb055eb0119342bcd229e6c4bb243d14ecbb654d0e2f45"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/01-place02.json"
+hash = "55c322d3ec9e5e84fda6520f678393d6db703b687128a9c9eb9741b28c40aa91"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/01-ragdoll.json"
+hash = "aebc5b032e5602a27a9cbdf6ba29171c4b792b18351508b81825eacd41da985c"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/01-recipes.json"
+hash = "08e1095732435080896813130c442ab54912a4377b435cd1e18121bdc7613c51"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/02-02w.json"
+hash = "1508bbef34ebf4212b5da91c6c7d9025605dd357a38cb94dd0885ff8adeb709f"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/02-grab.json"
+hash = "bfe081f61ed21e51bbe4ad288890e66710cb00ffd4940e9e508c209644400532"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/02-iteminfo.json"
+hash = "455510a13ffb2cd0dae26082c37b761f16beaf1413e9defd735a5e00d8f4f98a"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/02-place01.json"
+hash = "2727dcd8f20046433ae5829244c3e5f6a665190fafaa99318ede0998a338ca30"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/03-02s_seasons.json"
+hash = "514d0530e02e1001663f75b513341f49f1185eca8d9bd52a805865bf9181a98f"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/03-uses.json"
+hash = "b699f9d2db19c537fade4d3ec5960fcde2b3f64c8d5df27755fe5b1ba5c85720"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/04-nerdfs.json"
+hash = "31766fb72c709743b18227fb85f5254aeef4c749d418d755dc0c8da4206643eb"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/05-villager.json"
+hash = "bd52c77b258449867324de73bd4f488f1df3f0316dd51cfd484025db57aceb5f"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/06-03w.json"
+hash = "f0b77357e23b3b2d49241a4b17727e9542801e9ebd454689213ad2f27b63f4c2"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/08-purpose.json"
+hash = "6637a956f79f88d7324b4c1c2e8554fb9e72735609724b56694c08e09b5602c5"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/13-camera.json"
+hash = "6071f4f197a026b48f7337a0db64d79e60c00be710d16a2a7771d5f3d9b1a623"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/14-camera_slides.json"
+hash = "1e0a66425209a8e82ea20f490d4c55cfae08794c3b6b46a2eb0683b4cffcf262"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/16-freestuff.json"
+hash = "754dd0e5f9288991707410dc2a91cb341c1233cb35fa29434e3681e9bff24833"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/17-missing_guide.json"
+hash = "79dc7742e018f752ef7993127cb29fb63bff7f3125ee0d3eb98456664cf0c71f"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/18-spyglass.json"
+hash = "6a40ec5c9bddf06f8cbe194589faae6489b37764913514a70c2cd3bce6a214b9"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/19-map.json"
+hash = "14bc1128a117d9846a4c5d09cc504a10f962e8fca138d8fbb963e9867c4fdeac"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/20-album.json"
+hash = "a5f16c6216ada03ca195a6e30ccc94dad1d41eeb0e5e9e6cbd2cc8158ce61ac8"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/categories/content.json"
+hash = "e5fbce08d0f8bd2e842206e0346600912374f656c129060122545cd998f7159b"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/categories/main.json"
+hash = "a2c7d0e8a90001acb486f4a19ae461f038a6852c2566eb9f4ab0ce9d08b27dee"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/categories/stuff.json"
+hash = "a64c02dc91550daec530df6aa926673a4394ba9a7612b4ada13dc4db3bd13a9d"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/categories/world.json"
+hash = "323be1c089e6b0ef16e16a677f2cdee0f6ecd2250ffdd6b741e28720b8917462"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/sub-category/0important.json"
+hash = "2d6cf01c2fd225728080cb014c693ef14c1c5f49a30013834a1cd76e41f9398d"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/sub-category/building.json"
+hash = "af42da358d8d8f5e032412df3463f3202eb6785751c07067dbbe93c2e01a6819"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/sub-category/controls.json"
+hash = "94ddcc67c273afa58114676d6ecdc3a1d1ada28c0fc6a42d1a05f0bc64241981"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/sub-category/inventory.json"
+hash = "488b25b6213fb2a809b22314569de8028fe2a7a9d1fbf6663efea70a9638460f"
+
+[[files]]
+file = "config/boundless/questpacks/.AugustMC.upload/data/augustmc/quests/sub-category/photography.json"
+hash = "0177caede108231d6f8e968436b52ca4c4978ecead26f3c8ad68539211e580f7"
 
 [[files]]
 file = "config/boundless/questpacks/AugustMC/boundless/pack.json"
@@ -210,7 +330,7 @@ hash = "0177caede108231d6f8e968436b52ca4c4978ecead26f3c8ad68539211e580f7"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "273f0e9a3153c77d14cfd3022b7ff7d67022ecd2585b6fec67edc526cfb0842f"
+hash = "25d5a9c8f04864ed16deb1ffea75e2fa6f5ead211a38cf20b5f676309fe14f65"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -225,8 +345,732 @@ file = "config/entity_model_features.json"
 hash = "d9cf88559b017a538da84562c6a509e25b2ede5007a56fd3ba6d1f37c29c1c50"
 
 [[files]]
+file = "config/fragmentum/assets/august/lang/en_us.json"
+hash = "0fe1001d040e0fa337e1cb4487b967459ded3c35430610c1659c637c8300390c"
+
+[[files]]
+file = "config/fragmentum/assets/item_descriptions/lang/en_us.json"
+hash = "828818e0e85fd6388e33d8c9e5f8d0ddafbe3ef1fdbf4e0de5e7e28585fe028c"
+
+[[files]]
+file = "config/fragmentum/assets/minecraft/tags/item/spears.json"
+hash = "ed2db313a2a55d62e9ee52c106d6f766d98324423b297d591afa00ae9e7b44e6"
+
+[[files]]
+file = "config/fragmentum/data/aeronautics/recipe/mixing/levitite_blend.json"
+hash = "0186cf5b3a5e3d8e6f208b832553ac3f39f67d2332d476afe5bc32e0c9558458"
+
+[[files]]
+file = "config/fragmentum/data/augustmc/function/load.mcfunction"
+hash = "6ad0d07a6e43eeb784f11d5c485c7a34321ba11c86ffaa56bb06591093a0770a"
+
+[[files]]
+file = "config/fragmentum/data/augustmc/function/tick.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/fragmentum/data/augustmc/loot_table/insta_slides.json"
+hash = "569beb4c999d0cc870ee7473653445c3fa4ebd9462142d40cd15f7eb8bf195e2"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/anchor.json"
+hash = "893d7b8402f1a91bd9ba3dd81689b9626a1c3c9fa18b1585e28efec75b54160d"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/axe.json"
+hash = "b75bc82ee12f3a3851a3c55d84bb31f4aa925ecfbdcfb76b152ea3c11d9f280d"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/battlestaff.json"
+hash = "4a12793d61aed1fc14be75cea8cd01488fbad61a1249e06fc320fffc8304043b"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/bow_two_handed_heavy.json"
+hash = "6b6c5e00725631f1b08a6d992abd9ee84538f1115030e721c3b5c76d3796008a"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/bow_two_handed_light.json"
+hash = "5a6adab5ef615a563c6d576308fef0573f01c86fe3d8c843897507f5c35c4feb"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/claw.json"
+hash = "6bf190e1d5b51342d11a0b6ba583aa378e65ab4d7bd69d28dfa8955a274d45fd"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/claymore.json"
+hash = "e134c75977e21f8be6038ed605660e808631cb95045df5c7d4e83aadcfdeac16"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/coral_blade.json"
+hash = "dcb616ff9410112cdecbb2ee721e08d6ae8996b63083fc9cd758e8e562c45870"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/crossbow_two_handed_heavy.json"
+hash = "32e270b1d5ce296eb730ec0912263d8873c9d15d6029e89348540529f6fc6437"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/crossbow_two_handed_light.json"
+hash = "5a6adab5ef615a563c6d576308fef0573f01c86fe3d8c843897507f5c35c4feb"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/cutlass.json"
+hash = "266550dc9c05bb1e8412fe8ae3fb892317da1c4c97621218dd9d3dd31232952a"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/dagger.json"
+hash = "be7aca4b3e7f1ba91bc4c739d0809b812a14dfd90be5c13bdb7ed8a60f19b21e"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/double_axe.json"
+hash = "e0c48641721d84e95d5470c2f9aeef7528eafcb81158969d2dbf0b1023dc5e6d"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/fist.json"
+hash = "377fa339a34106b21c909f53bc6ee0edb62d5c520c9d78a2b2d713584929dbc0"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/glaive.json"
+hash = "ba6bf203d777ff4c6871ade8771d0493f110ebf363ddc6f9edabec24a202629d"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/halberd.json"
+hash = "b0d5a0ad8b09b2c76c87d2f7809a676e5e41f1f6e7b8f66c3bc09aaca70e3378"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/hammer.json"
+hash = "fc01bc0dba08ef0d55319778bb862efba376e72cae07659236573b7eab7bf324"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/heavy_axe.json"
+hash = "737205037cda194b9a1a7902413462dc0d2f644a1db5cf3f6589629277fbc88d"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/katana.json"
+hash = "0e4c58573e764fbbb2bedcbf3936f4f88d87b4c53dbc62c4f1e86b931c2ca0ff"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/lance.json"
+hash = "7630457876081d4de873384954d53235d631bc8ac5d3c543e38ef1e56035bf5d"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/mace.json"
+hash = "70b4ec0dfd0b6e9cf4902e3ff913141b0f529bbed280bb9d8ae553fa2f658665"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/pickaxe.json"
+hash = "7879ea0468843e6299d0bfd4ea6f6fc598d0efe77faa2e6bfac57c3227168e1f"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/rapier.json"
+hash = "82866fa6aa8eae120952fd8c4140d1dbf1378efd6e7ee531e4c1083f3ca51376"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/scythe.json"
+hash = "174304625d03eb4b30e2df71f5086d9cc8ce7c05ea8f003ae274db96939004df"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/sickle.json"
+hash = "d814251dc16890feab2ca426f18d366e5eede09fde63d1e358f91a03bf763272"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/soul_knife.json"
+hash = "fe0894d34e1a24d22579221cbe92c208dc81e89f135bf7a0414d8de6cb08d9f6"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/spear.json"
+hash = "e4d4693e92e01f96ac299381065a0a4ac54498ca187594adfe314907366e1877"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/staff.json"
+hash = "0709ceb1e755c1ef94258aea279955c1d295f7ca49cf722e2327c6100529788a"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/sword.json"
+hash = "438aa10220b7a54c78ffee2232e0087791f02fd6579ecce1c3f5a4329714cee2"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/trident.json"
+hash = "9c6e469cd9a55a07aacfb3b0aba97b8a21dfb3938c18fc0ab223b5dc7962556f"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/twin_blade.json"
+hash = "32298782a673e684ce7e1d884cfcc678932d852275d14b63cdbc4d799ec0412a"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/vanilla_mace.json"
+hash = "82982c268136e217048e4395024cfa3b922ad9c7629763ff7dc7dae23659ee6b"
+
+[[files]]
+file = "config/fragmentum/data/bettercombat/weapon_attributes/wand.json"
+hash = "2b8ed2e9fcb0bd1bb0f27615a973a0ddd1b4892c4bbb2eed91d9667e74bd0932"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/alternator.json"
+hash = "3e5933a8f8d0701f0aa452c2a89f9c8075a77647854b870b0d284725c3d6a96d"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/analogue_contraption_controller.json"
+hash = "bdabee9ad04748858151aabde7f0d9aaa56c92c5caa3a1952ea198eb48afdf60"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/analogue_joystick.json"
+hash = "60d8ea966eba98503c8805b9e614b3df094cdc6d4456ae419b32d6183355545a"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/andesite_cable.json"
+hash = "f6f8c876ccf637d40439c3e037702699e63c4c23b9d2a61e9f92bf6c9341bdd5"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/bidirectional_gearbox.json"
+hash = "ead4a5757683cbb4fc583058f5f342da1117e6f5824afe68f7533f19d0d35230"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/bidirectional_gearbox_from_vertical.json"
+hash = "ddb595085c3392ab83a71537f8dccc30186510894f6bf9ee4d8082fb129ae632"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/claw.json"
+hash = "3a7210e83931b4e80f3987877818712ff45b678ff12f3519e28b837e021d5e6d"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/contraption_network_linker.json"
+hash = "c36b92c3c78446accdd4ed354eac6cae74faec9f1287ed664aa1393c945687c9"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/gyroscope_link.json"
+hash = "361b36247a08e92db661c7903549b2b0ffaa1690b36f2ede1e96fe029863a8db"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/industrial_motor.json"
+hash = "50c96ede511c1e4ad1f2c02971508c168263ab8cd225206960937c2c3b39e3ce"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/physics_gantry_belt_wheel.json"
+hash = "1e8a4be08630ad6c8e932bae433bafdab83bb2c08efcf2bb31549d00600d2853"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/physics_gantry_carriage.json"
+hash = "daf647bf2b152be4126bd16ae1a5a891bc3d44a6a8859669e99cca2b048bf26c"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/physics_gantry_shaft.json"
+hash = "c0327d6894d1c372e5c017c1d22d193f1a17a174770545d277e3f6908f51b933"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/physics_goggles.json"
+hash = "6ed43b2d6417da0ed38eb2f05b8c75192c601ecfc8728eaa29d139494d5e11d0"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/physics_staff.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/powered_zipline.json"
+hash = "be403777b1b0ac77044d1197fd030e3b059f18a836b543a021e6bbbe4e09e107"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/processing_upgrade_haunting_t1.json"
+hash = "19ca48c6744b510eb4e9bb4f08c292c31cd851a09c20d1f5e48fee44d7f719a8"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/processing_upgrade_haunting_t2.json"
+hash = "981f1684a4ee4e015ecf2807a5e3be84e908159abaac3198fcd0d2e79319431d"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/processing_upgrade_haunting_t3.json"
+hash = "8c04be5c9e13e6562101cd49e82b59d3e1a05414af4107383ccacb365bd5da49"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/processing_upgrade_haunting_t4.json"
+hash = "388ed40d31e4db9efb93cc4a666052bd14158d5c503415779ab3e07a9fa8c082"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/processing_upgrade_smelting_t1.json"
+hash = "a36b4e89c14a73064d303472ed606cc7e49b324ce758d31970d79ffdf64b239a"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/processing_upgrade_smelting_t2.json"
+hash = "a64c75153e575433e7cd831cb0da2bb825f1d29a2286605e3ec9d25c0c7552ab"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/processing_upgrade_smelting_t3.json"
+hash = "a5f85a0b4f0f9a41215c60cf5241d3bb7036998a21c4ac60fba83442c943cbd6"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/processing_upgrade_smelting_t4.json"
+hash = "a2e67a6579a6c081b6bea4cc527c15bd12145301ae33372c83ca22bcfdb38c68"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/processing_upgrade_smoking_t1.json"
+hash = "508a2385f86b650cadcffdf9c2df4f81eac27de550a45f49747975cd6d2ba024"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/processing_upgrade_smoking_t2.json"
+hash = "87ff243368f4c06c2d2621d88e8b63dec1281c5df30771c5e2b7304400cf448e"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/processing_upgrade_smoking_t3.json"
+hash = "f19a12a59b0650c3db6cb19092d43b5ba734b9403fce6d4fb6a9dec1849679bb"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/processing_upgrade_smoking_t4.json"
+hash = "e1ffe899741997b84fffdc2d0a3d819b36cbfc528b5e8f19990e0baef019ef1a"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/propulsion_upgrade_t1.json"
+hash = "4650c4b84fa88466d14320e62beb9a36a4e777ffb29ed96a3d30f541af576b53"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/propulsion_upgrade_t2.json"
+hash = "d9e253b2cae47ffdfbc88422f8da0383cd52a215d82d26509a97743e6d4dd534"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/propulsion_upgrade_t3.json"
+hash = "a96c663719e17c8572fc0e487d00af30ad52e51520be4e0fd927f03e597465ba"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/propulsion_upgrade_t4.json"
+hash = "f3151586d85fc411a6cdd18cad77d142d95add70ccfdce4a26eb2cf20efab2a5"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/thruster.json"
+hash = "c14bc50e8fddce9660791bed80c254ea5aa11319849dfdf228fc29eea15cb6b7"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/thruster_bearing.json"
+hash = "263e6f082e6f72c780673c1d95fe4627de7256cbc05f884a4a0d53b60c070de0"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/thruster_lense.json"
+hash = "dfbeb44f148f4854b213c22dfad5c01da1d823be51f6f85968bb745a5dd5bb7e"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/thruster_lense_mixing.json"
+hash = "81eb615eb5582389da929121b5cde9f096e75a0b59bcd592aa61dbb42d64a787"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/variable_transmission.json"
+hash = "ae3eb02dffd50d2c12530c8549842c9dd722cc73c3d16282edac131b43ddeed2"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/variable_transmission_from_vertical.json"
+hash = "5373b36859e3444c6f5419b1e26654a1569e68efb63c7d9ccf2b639c9d9528e9"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/vertical_bidirectional_gearbox.json"
+hash = "3715a6a55b337687815ac9d2e746092d4977127d4c00bd13ad7f27b8d3df3048"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/recipe/vertical_variable_transmission.json"
+hash = "a6c46f8ba9b252dc92b182aa67a42796a0a0436372f260cacd6a044fe54ce0c4"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/tags/fluid/thruster_fuels.json"
+hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/tags/fluids/thruster_fuels.json"
+hash = "f1e2cd903a4ba10d2fb87effd8ad61426d0fba1cc4e35095393ff98aff771bdd"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/tags/fluids/thruster_fuels_dense.json"
+hash = "95eaac961a0ac7f8e62c1fd3cadbae29192b9a5cbdad04725c86d9b3677c6e68"
+
+[[files]]
+file = "config/fragmentum/data/createthrusters/tags/fluids/thruster_fuels_light.json"
+hash = "100264875c253452d4d3e2424e2e5a03d97d921446cc99a979222da45aea184d"
+
+[[files]]
+file = "config/fragmentum/data/fieldguide/fieldguide/categories/bosses.json"
+hash = "9a4b90fe4a2dfc03536ce5fb396431cba7d946a1bb6448c51ac5b8c19ff01341"
+
+[[files]]
+file = "config/fragmentum/data/fieldguide/fieldguide/categories/plants.json"
+hash = "9a4b90fe4a2dfc03536ce5fb396431cba7d946a1bb6448c51ac5b8c19ff01341"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/armors/diamond_boots.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/armors/diamond_chestplate.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/armors/diamond_helmet.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/armors/diamond_leggings.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/armors/netherite_boots.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/armors/netherite_chestplate.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/armors/netherite_helmet.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/armors/netherite_leggings.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/weapons/diamond_axe.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/weapons/diamond_hoe.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/weapons/diamond_pickaxe.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/weapons/diamond_shovel.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/weapons/diamond_sword.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/weapons/netherite_axe.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/weapons/netherite_hoe.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/weapons/netherite_pickaxe.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/weapons/netherite_shovel.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/capabilities/weapons/netherite_sword.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/bogged.json"
+hash = "d326acdc68d24549d8c935ae96ed615a7b8e3247724bf99ed659188c89f2ab86"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/creeper.json"
+hash = "27b7784c3bc9abf93425742edb146574fdcf28a421b099b708662ccf5dfa8573"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/drowned.json"
+hash = "dc7437ceaf1aeb55a6f158f094cb6325d5c1dc6ebf664b2e7883f476bdaf82d2"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/fox.json"
+hash = "b268c339cfc8ef68bec8fa73f75af11bbfd7bc34618537bf957698949a7d7823"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/husk.json"
+hash = "1b05a82d9b923f76f5704322024c0aefd3ac98912c21206ea93e5475eacda201"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/piglin.json"
+hash = "9737723276286acd2d5e5318bf7f532bc13c52c43bfcde61a6bdd1873fb07890"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/pillager.json"
+hash = "47c4595b722ee6663b9402acf8268b657ae8dc13387a238de1af205157fdae86"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/skeleton.json"
+hash = "d82187bf29d3284234a8b82505e63bb071776ed32149da25e7f8fb70c2fed560"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/stray.json"
+hash = "d326acdc68d24549d8c935ae96ed615a7b8e3247724bf99ed659188c89f2ab86"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/vindicator.json"
+hash = "9c24a2b3ac1c417581a1cbc935d0ef90884971f63319bd03989765059427dcfd"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/wandering_trader.json"
+hash = "dba0bd20501810bc7c795a0e67ac691914514a530428852edc08807e35182468"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/witch.json"
+hash = "a954fc0eb4d91efe7e6bba20c4dcff21cec6f78b9faeb2ad9bbcb156c613bd6a"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/wither.json"
+hash = "b3b5acbf3a3841ef034af4033ebbb8816f50850e70c9173e7a068c48d610078a"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/wither_skeleton.json"
+hash = "3e975727dc1d154a662061e910cc6d2d32add0d9afd354be778803730ae67037"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/zombie.json"
+hash = "daad54cfe011b8b01fed816dbcb3a3204c62a79913fdc175660ec74acacab9a1"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/zombie_villager.json"
+hash = "1b05a82d9b923f76f5704322024c0aefd3ac98912c21206ea93e5475eacda201"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/fake_loot/entities/zombified_piglin.json"
+hash = "b64b006ec0fafdc6593dc8b5ca9d513274aee9932451e678530cb32db31b0a28"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/ancient_city.json"
+hash = "e7e5c634c37f7cba454170e64d21cf0c9d862477d8221ab85376bfdab9bf2aef"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/bastion_hoglin_stable.json"
+hash = "c1c284fc58028f0e7c8eba2412f7bb3d5179501efd498c00334f825c52d71dc1"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/bastion_other.json"
+hash = "18a7c48b80eb791f26d460222a6cf204612b4c9b0ce0ae157985f97e7b2cdb39"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/bastion_treasure.json"
+hash = "567cf1850a92784d4a552d18e02ad5a7d1c8251368295c73c7b62be72923d106"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/desert_pyramid.json"
+hash = "452450748910386615d640e627b241130ed2bada7b877946527a95040c8a3924"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/end_city_treasure.json"
+hash = "9d47522aaede6e0c7a0d0492c35e1af401a3d25928f01bbea0ee8033b11a5a91"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/jungle_temple.json"
+hash = "4d113c2163ea2521b6b8b6c99c60f3853d1ab374077c6a18f0074232f82cbd69"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/nether_bridge.json"
+hash = "13e073fd529ba44546b5b6ae1eaebed3b07795c7c94baeee403ca3b9a33f9bec"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/stronghold_corridor.json"
+hash = "eb63cbeea8fa687b2cbc839f254717c6ac69414c1eb486ca99dc63a6cc62c842"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/trial_chambers/intersection.json"
+hash = "f70e1ac98adf00f3ff843c564cd7543c6d6f9040b827cddd2c536bc7c0954349"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/trial_chambers/intersection_barrel.json"
+hash = "bc90385e1e16bb4dc0b3d23268a733ded2e4c0aedc83ef8216cdb7756d496126"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/trial_chambers/reward_ominous_rare.json"
+hash = "49852c278e46ab23c28429c1c7f51799a646c31e8f67b1d4dbd52824860f7407"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/trial_chambers/reward_rare.json"
+hash = "c244c7fe1d0708b65d8ce37ed4ed89f81c1172d2c36e899fe2ea06e915884f6c"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/village/village_weaponsmith.json"
+hash = "5d70e92a94ba3140ae6f9ec5d0d03a06d1a62fbf849da0601bc145955eeac27d"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/chests/woodland_mansion.json"
+hash = "c4a03414f4b033afb204a09a3b4bb483a16bb5651186cd70afe1c3269ae3ddfc"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/equipment/trial_chamber.json"
+hash = "08a7c981b254ba09ac800f455b87bfd7a26c3dd46612e494c0f7f61c3a09ee31"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/equipment/trial_chamber_melee.json"
+hash = "4bef11dff170cd6d5528e3eccf35aed6338064a726dbb107a9ddbc2d3b70055a"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/loot_table/equipment/trial_chamber_ranged.json"
+hash = "c04e032f262c9b64a33b764756766371f2fc95bc6b4436c1eaf37376f4955f51"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.armor.json"
+hash = "2ae0f1bbe149a1e9215186b9531aa66394c8e12fff412a3b58b84b30cab0920b"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.armor_toughness.json"
+hash = "97acd64b1aefe066f766251b9b40e3ec796c45a6adeed8c79e42a0526f0ecd31"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.attack_damage.json"
+hash = "0eeacef849e031165fef37cfddf507c992d1e7f37b43597329f7e19bb824ce14"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.attack_knockback.json"
+hash = "d4a12561a64f4d67490e14617221be9c0d2b3963482a28923207a59f350ce907"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.attack_speed.json"
+hash = "51fd61a23ef2114a1bd119667fbbd16cdae2b572a3a4eba231c3f4f18cc6fa17"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.burning_time.json"
+hash = "019e36e4f77d3d3ee7374e3bda4ba21c0c829aea5151d1623336410ecbe741ef"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.explosion_knockback_resistance.json"
+hash = "a5386353add304884d580a947514b92482ba64337ce99cdc38787b341f39fb22"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.fall_damage_multiplier.json"
+hash = "7f88bb29d8b2435a1b21495bb02f687465c42894f2a404c0296033a7e39dc033"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.flying_speed.json"
+hash = "797cce83f7a0a20d0bc9a81c9dcb53f7474a6db1f26f7eaeacb73bc8928340e2"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.follow_range.json"
+hash = "d1403c45b04049db05a51236fe78dca1904ae2bb268e34c70bff7598e0433b60"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.gravity.json"
+hash = "089b1b90ad653cb21985070ca430d23fe57f85e17653ec21d239e9709096b36c"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.jump_strength.json"
+hash = "8fd290ce5e2b7c9157b4ebc7b3bac4086a24e54b1d8b2a1ed08be34b9e30a722"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.knockback_resistance.json"
+hash = "94de2e0452f2033917761e3664d5ee841378dbd796f04b6e7ec8abceb7f41be1"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.luck.json"
+hash = "9841cd3817abfc86cfc7b4e65513dcef984643053cfa16d3036331b78628882b"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.max_absorption.json"
+hash = "6355534f09239f376a9742efd6280e6be3f20e80a8536f8dcc48d137f5afdb95"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.max_health.json"
+hash = "23920e7470462926fe06d4de866624aad0686b4a1258c66276910ab7562e185b"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.movement_efficiency.json"
+hash = "36572839560787a44dab62f6096b853926967d4493475c835ea99d4fbf89f0dd"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.movement_speed.json"
+hash = "7c70cfaeafdd314130399710ee14793aa059f1213ba1adda816b2284e8871c3b"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.oxygen_bonus.json"
+hash = "23c9ecfd61d9bcc0008ebe99987e6f916a3d226680202806e651ebfc4c698e06"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.safe_fall_distance.json"
+hash = "bc2f02463cba16742cbd55118a598b4a581c18dda3685c2cf0d5b2f757e7ce75"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.scale.json"
+hash = "fc4d1ab75bbefda8630786df2071a5b729c65d1cd20bf8da2ab6d4e8871aa977"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.step_height.json"
+hash = "3ae873081e7dd5bdecbc86ff27ce1d34bf18ad70d7bd59d9933318a46067d394"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/generic.water_movement_efficiency.json"
+hash = "4f6537cafd118d692c6be01a0ee00783b213d12f306a032591e54dc843579b46"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/player.block_break_speed.json"
+hash = "30af3430160c92d579dc81423f187a071d2b649de430212cbf2d5a05894588b1"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/player.block_interaction_range.json"
+hash = "86bbc66b9e4ce0eb1f1e29deb8ad3fdfba3aa0635c0ee4b53f710ff5304d4e8a"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/player.entity_interaction_range.json"
+hash = "9beece329172fcbd1caedc6c2b00ac544be8d5e646ce392dfa13ab4cbe0fe39c"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/player.mining_efficiency.json"
+hash = "eeafe50f8482d90c7cfbb83dd9d0a62621e7f8ab5069fce875d1ec479de60eaf"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/player.sneaking_speed.json"
+hash = "0c701d82096fcb45572ae5b0c3a71cfab53e0675e9624040b80cfc856560fd23"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/player.submerged_mining_speed.json"
+hash = "d7c37a80e5a30d69bb7ce51803567ed53b3587e64058eb9675f0ebb34767ad34"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/player.sweeping_damage_ratio.json"
+hash = "1128e1ae789ec7d288ce751ea9e4a038ac9d89c96cd38acaf0f3682cf4cb5b6b"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/modifier_setting/zombie.spawn_reinforcements.json"
+hash = "ed0f4b30203df47a1ccd3d353897cd4e621bcfaa5c5013058d0ae3249078f441"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/tags/function/load.json"
+hash = "adff00c985082609e2c9c60723218a7d16dcfe3d62bd2bf4d37487d15b7fea2d"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/tags/function/tick.json"
+hash = "336666970f83ee3e42e93b79f4a9ae62326f68fd322874d2f3a3bafd67e7b0fe"
+
+[[files]]
+file = "config/fragmentum/data/minecraft/tags/worldgen/biome/has_structure/stronghold.json"
+hash = "f825f8a7f4e8043a5f8336cafcbbf266b50b3789d28ea963036114c908547d46"
+
+[[files]]
+file = "config/fragmentum/data/supplementaries/loot_table/loot/galleon/safe.json"
+hash = "cbfd25ed67425a5a445eee5632bfe2a0f1a8fae99ff8e816dce5dc011ba1d519"
+
+[[files]]
+file = "config/fragmentum/data/supplementaries/loot_table/loot/urn_loot/epic.json"
+hash = "f5e1d1afe8d35945cf4d9049bf09adb0e4c588f9345245b7fde05d38c1bec40f"
+
+[[files]]
+file = "config/fwa.json"
+hash = "c95006557ce4b5f73c6d04304f815a5070922d87d16c3a06024f5694fcca83f9"
+
+[[files]]
+file = "config/hoofprint.toml"
+hash = "d831b066805b758f4be1d999937148ae8ccdd14b7d58c593247ee3a4f4a44f30"
+
+[[files]]
+file = "config/immersiveminimaps.toml"
+hash = "d5604d9a580fcbc6cea123c85c831059f0dff94baae0d6eca24a011f291535f1"
+
+[[files]]
+file = "config/immersiveoverlays.json"
+hash = "b5ca7052ab9eff80e01bd2d1a5756f0313ae6d6670d077c5dacafa053a330e8b"
+
+[[files]]
 file = "config/item_obliterator.json5"
-hash = "1dd138fefd21995a27194777cac3273230236b059c6220acf4523127a2b6b462"
+hash = "a8581bb961d68d2a121ee80c2e0e08b767ebe1f638a16f459927748f30d34ce8"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/keybindhider.json"
+hash = "73263cc6dff6d6a0e7dec9d917a04a08c827fde37958dc2a5a4caac76786f8a3"
 
 [[files]]
 file = "config/mob-ai-tweaks/blacklists/allay_weapons.txt"
@@ -261,6 +1105,14 @@ file = "config/mob-ai-tweaks/whitelists/seats_hostiles_can_escape.txt"
 hash = "b76af950b3308334127224428f7db8c144c3a82f6023b812610803589385af09"
 
 [[files]]
+file = "config/spyglass-improvements/settings.json"
+hash = "31fc47b995ea2df5af5fecb091d8e03ea3b6682ea8c34772ffc07abd36da5a06"
+
+[[files]]
+file = "config/surveyor.toml"
+hash = "c5d2caf6f1271ef8b84a1bda60ce76a610f05dc897ee187c2b3502fc000ba119"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -274,7 +1126,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/existence.js"
-hash = "554a05989d8239c808dc4f8983fba955ad79704fb6113643f1cdd1111b14331e"
+hash = "57a16651719d884dd7eff3d9150e63d42a271f3766cc4f55a257b89733988aea"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -290,15 +1142,11 @@ hash = "47b3fdaa736fe7607655d8e93616ef038d4fa2524cd172aeffb53152bc53ccbc"
 
 [[files]]
 file = "kubejs/server_scripts/existence.js"
-hash = "9a9ee1798d10729cb5e0a7fb9c83753d9d3372f36410d429e3bb1023fc6b4061"
+hash = "79c8de6fff3dbdb01a01a03ce0dd5067e4824f87c0dffe1d227c8ef398fc9cd7"
 
 [[files]]
 file = "kubejs/server_scripts/tooltips.js"
-hash = "37d1cfbdbf876e84da5d09a7822e55f19df779e6deb4195b3f5ebc5fa95599ae"
-
-[[files]]
-file = "kubejs/server_scripts/tooltips.js.bak"
-hash = "1f421d2cfdceb4a55b8d8d421e410f8028639c2b51631e500e235c4096a12b6b"
+hash = "1c3084e6ab356f1411e893a33b96d7b0dee57f2bd61046feffa799a852762da7"
 
 [[files]]
 file = "kubejs/startup_scripts/mobs.js"
@@ -316,7 +1164,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "bd335d6fdef1825db4c54c6457fd6f5381682207af34231eb184155ed97467ba"
+hash = "608a63b1f64cbd7fc0ac6c11f4897294ff700edc0a3f9e45cef1bead3ff1a6ad"
 metafile = true
 
 [[files]]
@@ -335,6 +1183,11 @@ hash = "ea5bdb1dd0b48daff16d57865f4042399d1b8a34962e2dc98d0862b422ebc958"
 metafile = true
 
 [[files]]
+file = "mods/azimuth-api.pw.toml"
+hash = "9fe26d9d7fa23b6fb4f0b528cd0c444171514d4d65a856f9c52bd0085717ea6f"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "92c1958a1eec3bb5fa7a9818b29380730ffccca2808439910f01430c9baff891"
 metafile = true
@@ -346,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/barehanded.pw.toml"
-hash = "e240d2304ebe9638b9c5bbe5167095c583b438c9bdf9c2365ce09b4c2b8baacd"
+hash = "7856a6e57a024c739cd0eb3f81da90165c983975081040e69ff4600cf784df27"
 metafile = true
 
 [[files]]
@@ -381,7 +1234,7 @@ metafile = true
 
 [[files]]
 file = "mods/boundless-quests.pw.toml"
-hash = "11d4defc2cff0a0c8e5257a223ff7409c48fae7746d2da906f4925ad2027e4a7"
+hash = "248870a470641c9499b0b5aa4e16c37b12c9492ca8f6fbaf9c901737f895d4b6"
 metafile = true
 
 [[files]]
@@ -391,7 +1244,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "732031d675f62ce57d72e963275e4af50c30f63acdf95afe6ac8e2f098d82015"
+hash = "838a1c882b5db7e4f8b0855330d803d74725962bff0aa99613161f59e0916807"
 metafile = true
 
 [[files]]
@@ -411,12 +1264,12 @@ metafile = true
 
 [[files]]
 file = "mods/clutter-no-more.pw.toml"
-hash = "6d406b557ae2e98bb423a86e29dbe2295e03594306307a9cd2168dfc573c213c"
+hash = "07293a410c23b657d1eea3eac4711368fc3539ae45589ef121d32bb30f5c560c"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d113daaa9937c137e1f2d71946842b75ce6e12e842c33d68c17ce4bf20efbce5"
+hash = "d9d8a7488bf2d8c6c4153d4a636bb6fb4051bc970a362154aa8509291126a450"
 metafile = true
 
 [[files]]
@@ -431,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-thrusters-and-things.pw.toml"
-hash = "7764e930b1228673e73a93ea134d1c3564a91d0f68727fba1bb932ea2edbe432"
+hash = "eb756a944b899585e1bb9b6bb9f0a7bf49912adebc46dae2ca61e0626e79ee70"
 metafile = true
 
 [[files]]
@@ -451,12 +1304,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "70c9dcb5f8490eb1bb134eeeb03b9a9e8dcc9e4b5802fa53afa63fda44cc55fb"
+hash = "194af1806cef6a357b1fe9b15598b8f3973d9f5400b8a8fc5916d1d59851c993"
+metafile = true
+
+[[files]]
+file = "mods/create-bits-n-tracks.pw.toml"
+hash = "78953002302460c89e03df95dc425693eb8551663caae4d0a0dbd52c1070b361"
 metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "807ed0d860b6e6f210a90dd06c3cec9137b5528452b5b929e6cb9c8528d8af5e"
+hash = "f84c78a2f48aa115d1eef33275236bf53d5c9dfe84166db8eb3089b9b08dfa82"
 metafile = true
 
 [[files]]
@@ -466,12 +1324,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-harmonics.pw.toml"
-hash = "e75857ce6714262602637becd57b1f2fbd5739a7f9b1f1391a372e02f28554ee"
+hash = "8e497ea9bd383ae1af95080b66518ddf3f2ea17d6f36281bb77e3957b2915500"
 metafile = true
 
 [[files]]
 file = "mods/create-lift-n-load.pw.toml"
-hash = "21c9d10d6e1f426cd53351b25de8ea43cd3ec51f9d85bda8861d919dab918023"
+hash = "62afc904e045816e65d44111b30899771d754b9d05acf0a672019049eba15abe"
 metafile = true
 
 [[files]]
@@ -496,12 +1354,12 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "77641c2b7c46197f619a17c28f4eb9dab09680847c0c0c572a8dc5c51ff639bf"
+hash = "6265307d74f1df5a922a8f1056ae3179a5651e2c749e902139b22dc76115aaa2"
 metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "802be6266f2e64a2958df445e851ffb5f7cf89b67a75be56a3e12332da9d0ec0"
+hash = "55356c3f76bbf330dde1eb9964651045a312d3ab48baecb01e565b6868fd269c"
 metafile = true
 
 [[files]]
@@ -541,7 +1399,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityjs.pw.toml"
-hash = "617fcd993b13e9d7f21e92563c9815956475c9bd4abc1ba9c32a875ab6b39543"
+hash = "6183b11f35d01a94f864b01ba3ba0b93358b0d5c2d4f4516cb1c9817da6b796b"
 metafile = true
 
 [[files]]
@@ -570,8 +1428,28 @@ hash = "38b61365d5e6bd94eecac1498c4853b83b80a84f681957ee9ae8b0ed5324ce7d"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "7dca697c2192681a063d348ae70657e1bd9ef89b1bb56fd7a9d1ed0011b3a320"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "9ceb1ec1fc5a303abc6d58b9dfa6dfeed697f45d4f69519040783031f4bf6525"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "817f41cbe112ee36afa0faefb4d78e1d83dcd338e29cf4755cee51b3d581a76b"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4db51fa980aaf896119d927f56fa5256c5ce1e53095fe57604115bf494c7c64d"
+metafile = true
+
+[[files]]
+file = "mods/field-guide.pw.toml"
+hash = "fe92186b8b613fc6b1e5cc8c737ca154998b03f0cfb73aac57fef5ae10b53c85"
 metafile = true
 
 [[files]]
@@ -611,7 +1489,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0e6c75da1bd14637978e69585f3c0eed47b7e506e5f9320a95f7a37bf15665b8"
+hash = "4115bbddcfef1a4eb098df927967f7621543ad3faecf7328bf98d504fb687cff"
 metafile = true
 
 [[files]]
@@ -621,7 +1499,7 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "08d133c3427df5e139ba51908eabebe7236adba46dc6adc85c4c90b150e79fde"
+hash = "a9700b0c5dd3b6c204796f973cbea9335e25ecb4226df3c362e436d64e2c909e"
 metafile = true
 
 [[files]]
@@ -640,13 +1518,33 @@ hash = "b6292a347fb5f789d94567aa509c9303edee53fce3da35282796a9e2793ad261"
 metafile = true
 
 [[files]]
+file = "mods/hoofprint.pw.toml"
+hash = "0eb05ffc15ca9133f67e004216e4abb6368ba77b21b8a2e764f50fb167a2eaaf"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2aa289afdb9e78436e68f6982ee1af3a48d553128f40e9d57b73f7db3c0bcf66"
 metafile = true
 
 [[files]]
+file = "mods/immersive-minimaps.pw.toml"
+hash = "d8f25ae02382ebbde4cc62fa842c2a56c28df602d87b9e997101ef8967c2c47c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-overlays.pw.toml"
+hash = "91dbfa26e5482cc11e6a803ef21874b741db2e67d31a8ba92cef8383ac59632a"
+metafile = true
+
+[[files]]
 file = "mods/in-control.pw.toml"
 hash = "388e3e1a9ff006e8545feb064232b9b9767ee5ab9cace7757f21a63e8ccfc5cd"
+metafile = true
+
+[[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "e2185492f496cc0d3599c2d6cc91de0b622b87c1c07adb321494bb6ad4d28288"
 metafile = true
 
 [[files]]
@@ -656,12 +1554,17 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "8b6f9249a4fa58eb2d0b228e725c02cb03afed87f97dccacd279b10f76623d49"
+hash = "4edcdff65bcfd52f18a63cde27db58b3a3f5582013d25112469b7b0c46ddcce0"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "a0d022e5743dc2ef2335b7227ebf185b233b7bb5d15085611f5cd0da55c9bfeb"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "29eb476ec042498204a260215c67643ef3bda285232422dae9384bdf578f203d"
 metafile = true
 
 [[files]]
@@ -690,6 +1593,11 @@ hash = "b1a2726f83e498bd48de7161803c7262639f6faebd3c9e4c58394d370e6b420d"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-lang-forge.pw.toml"
+hash = "9e8834b249b409e13e1615fd78d29c441ffc6e18215421ac64e9b9c469847673"
+metafile = true
+
+[[files]]
 file = "mods/krypton-fnp.pw.toml"
 hash = "32d7264725f89593b8ca60af13f23026f3dbb4855670da51df1931442ae8e58d"
 metafile = true
@@ -712,6 +1620,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "94edd795cb98f2f94059fe2e4469e484770958fd58e3ff01c7199f7483bc0624"
+metafile = true
+
+[[files]]
+file = "mods/mcqoy.pw.toml"
+hash = "3af1125c2513cc7ce98154ae7c96fc8aa3f3e3d495ffaaa2859388ca858b2bfd"
 metafile = true
 
 [[files]]
@@ -741,7 +1654,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1d75ee940116c96e4cbba6cd2907acb383515c80ddd54f196130eb395695ff4a"
+hash = "a4534264192f552ab844c6e14a1c68150f2bd91d80d7c0f1624e77e55814bc35"
+metafile = true
+
+[[files]]
+file = "mods/more-enchantment-info.pw.toml"
+hash = "ab893aef929bdf4cf02c7e57e422f2024ad4443db308cfa47a03e19880493e7c"
 metafile = true
 
 [[files]]
@@ -786,17 +1704,22 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-land.pw.toml"
-hash = "9a98c3c0aa8aaee68b4328d08da498fada018a04e3c79aaa4c201913f28b804a"
+hash = "e820eec26c3c26aa4b11f57d931211ce8388a98edea725a7e72ded94f33a8d94"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "fd4a00fd9d043ccdf94f1e643b75892c35edc2c0d74cdca832aa0bf700946e2f"
+hash = "807514914aab84ab89cd72fc7d869faad725e6f26092fb59e1cb2efdc99d9bdb"
 metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "c980534386eb78444d2cbf06552ac3c83d61b591c177111d5c4f65d65c36c6a5"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "ef9f80770c1ca89713233f6ca9c30702b091d405a47e4ffe5f1f6ff1fe77f18d"
 metafile = true
 
 [[files]]
@@ -807,6 +1730,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ec0970ca980c296d7f960ec131d50997e0efdcae5d77f1eb0546659bdac0ef98"
+metafile = true
+
+[[files]]
+file = "mods/preloading-tricks.pw.toml"
+hash = "3c8473bff6f1a8341b10e0526b77e125b580e635323ad2d1a24e9533e15bf4bb"
 metafile = true
 
 [[files]]
@@ -821,7 +1749,7 @@ metafile = true
 
 [[files]]
 file = "mods/ragdoll-reactions.pw.toml"
-hash = "79b849eee6f7b6408bf5252540e0b2d6f9491be8a8a27dca9d7748be89af4349"
+hash = "ab445c07794fd9cc7c3820665cd2fe7d24276e577ca1f46f8c3f6a8c3489a654"
 metafile = true
 
 [[files]]
@@ -831,7 +1759,7 @@ metafile = true
 
 [[files]]
 file = "mods/redomesticate.pw.toml"
-hash = "7f0bb246abf268e7a5871494b227a0b1c700b614df31f4e3ee113b1c66a484a3"
+hash = "73413b59f6d57af95c13ef699161173e8a35a0cc3ed9ecef549484dfd1c7eb1b"
 metafile = true
 
 [[files]]
@@ -871,7 +1799,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable-player-ragdolls.pw.toml"
-hash = "3935f6745a4481a358d01593e0f60189fcf73fc55dd48d71c1bb2c466f2c9aad"
+hash = "130947ff955a8bb27dbfb80208902d09f2434d18d5bc3208a040ecc3c62a470e"
 metafile = true
 
 [[files]]
@@ -896,7 +1824,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4c8e78397718c604778e2ee10f1295ae4a3348c456e623a157dddc26e12a232a"
+hash = "1793bcbaf8e1eefb19e16a441f3f921f406e235a5281076e7b48744637a0dfa6"
 metafile = true
 
 [[files]]
@@ -940,8 +1868,18 @@ hash = "44ad399c324f3f8f1a10d144b4b410fbe2d8da27cc5e124692352293ed2dbea2"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "4c3c5d58eef651db9536e5bd8f5397bab262f7abd0e97270c583ff52e7e53133"
+metafile = true
+
+[[files]]
 file = "mods/stormies-spiders.pw.toml"
 hash = "aef10cb2dc8deb78abefe95e0d7efcfc242ec9a1f73128e256bcfb168b9218c6"
+metafile = true
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "a1dcdb011953e570e209d594c6553f7d3d9edba0a9c5bfd314a65ec63a9e1efe"
 metafile = true
 
 [[files]]
@@ -951,12 +1889,17 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b4505f6ed64c00a5caaf32875153304095cd3cea9c9ea3bc91c82fd84c25f30d"
+hash = "325d638af577a5d00a7e7b80b3e078bd65afdf48d4554530a5622252a273e0e1"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "ed4ca544aaf76dd4da7045ec14efc7c40b520a4de63b522c1201fabfbd305f23"
 metafile = true
 
 [[files]]
 file = "mods/the-ponderer.pw.toml"
-hash = "3dc40eb2c49a87393805b404c59ecc7173277fbff135c3269db9946ed7d38e09"
+hash = "29c9b74bf52d9c1a61fb5e2b9d9d1fb37844116a525cf8e0a646079a38fe82b3"
 metafile = true
 
 [[files]]
@@ -972,6 +1915,11 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "fc75b5be3ef8b2660b4af5d0a83c6073bd8845fdac333075bd115e0f7f50fa1e"
+metafile = true
+
+[[files]]
+file = "mods/useful-spyglass.pw.toml"
+hash = "ea7b419026f6b56c7b414262616343dc21ff8500953e0b82034be487e92645d5"
 metafile = true
 
 [[files]]
@@ -991,7 +1939,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "4eaa90ba00788c8241a6ce29d6a98ff0fe9c789a2a9b0b87fde1cae73716d9dc"
+hash = "c99c76cad1262ee938ae750afb4b8d452b09e6813cc6adacfa0f197914078ecb"
 metafile = true
 
 [[files]]
@@ -1006,7 +1954,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "71fc13d6f1dec5f969be9c36a073c58a88e9428fb34b5510a6223b1628384b0d"
+hash = "1dae4cd56ecaaa608a40ba243404cf1b8896c6440a7a13669c08eeedb3ac3ab3"
 metafile = true
 
 [[files]]

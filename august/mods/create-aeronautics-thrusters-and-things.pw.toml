@@ -1,17 +1,17 @@
-filename = 'createthrusters-bundled-V0.1.17.jar'
+filename = 'createthrusters-bundled-V0.1.18.jar'
 name = 'Create Thrusters'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.1.17'
+x-prismlauncher-version-number = '0.1.18'
 
 [download]
-hash = '137b9316628dc466791ad754032da55fb7becca8158398e78c83637f0a13a9f68f6fb4b0e09aff1bedf5a44dbd265fc6bca890901fe121ecc766fe8376e20f08'
+hash = 'dceb9eb235aad1a79c5102516e3d94445101786f2f4a94feee3c8122414809aed3672236e26b2fdd9155052ffbde24f5cee5a5625557ca537c76fa396a92a1c7'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Sza3GgEL/versions/IfTHBP1A/createthrusters-bundled-V0.1.17.jar'
+url = 'https://cdn.modrinth.com/data/Sza3GgEL/versions/is3iF6L2/createthrusters-bundled-V0.1.18.jar'
 
 [update.modrinth]
 mod-id = 'Sza3GgEL'
-version = 'IfTHBP1A'
+version = 'is3iF6L2'

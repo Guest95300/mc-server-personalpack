@@ -2511,7 +2511,7 @@ ItemEvents.modifyTooltips(event => {
         text.add(Text.empty())
         text.add([
             Text.green("- Functionally a grappling hook."),
-            Text.green("- Does not work on sub-levels / simulations.")
+            Text.green("- Does not work on physics objects.")
         ])
     })
 
@@ -2753,14 +2753,14 @@ ItemEvents.modifyTooltips(event => {
     })
 
     // Anvil
-    event.modify('galosphere:shadow_frame', { shift: false }, text => {
+    event.modify('minecraft:anvil', { shift: false }, text => {
         text.insert(1, Text.join([
             Text.darkGray("Hold ["),
             Text.gray("Shift"),
             Text.darkGray("] for Item information")
         ]))
     })
-    event.modify('galosphere:shadow_frame', { shift: true }, text => {
+    event.modify('minecraft:anvil', { shift: true }, text => {
         text.insert(1, Text.join([
             Text.darkGray("Hold ["),
             Text.white("Shift"),
@@ -2852,9 +2852,10 @@ ItemEvents.modifyTooltips(event => {
         ]))
         text.add(Text.empty())
         text.add([
+            Text.gold("- Surveillance camera."),
+            Text.green("- Can be connected to a Television by linking a hollow casette to the viewfinder and putting the cassette into the TV."),
             Text.green("- View distance can be changed with redstone."),
-            Text.green("- Can have glass panes or mob heads applied to have the linked TV get a particular tint effects / shaders."),
-            Text.green("- Can be connected to a Television by linking a hollow casette to the viewfinder and putting the cassette into the TV.")
+            Text.green("- Can have glass panes or mob heads applied to have the linked TV get a particular tint effects / shaders.")
         ])
     })
 
@@ -2902,8 +2903,8 @@ ItemEvents.modifyTooltips(event => {
         ])
     })
 
-    // Grappling Hook
-    event.modify('addon_gancho:plunger_launcher_test', { shift: false }, text => {
+    // Cable Trolley
+    event.modify('addon_gancho:conector', { shift: false }, text => {
         text.insert(1, Text.join([
             Text.darkGray("Hold ["),
             Text.gray("Shift"),
@@ -2919,6 +2920,27 @@ ItemEvents.modifyTooltips(event => {
         text.add(Text.empty())
         text.add([
             Text.green("- To be used with the Create: Grappling Hook.")
+        ])
+    })
+
+    // Swing Hook
+    event.modify('addon_gancho:grapple_swing', { shift: false }, text => {
+        text.insert(1, Text.join([
+            Text.darkGray("Hold ["),
+            Text.gray("Shift"),
+            Text.darkGray("] for Item information")
+        ]))
+    })
+    event.modify('addon_gancho:grapple_swing', { shift: true }, text => {
+        text.insert(1, Text.join([
+            Text.darkGray("Hold ["),
+            Text.white("Shift"),
+            Text.darkGray("] for Item information")
+        ]))
+        text.add(Text.empty())
+        text.add([
+            Text.green("- Functionally a Grappling Hook that works on simulated objects."),
+            Text.green("- Sneak + Forwards to reel in & vice versa.")
         ])
     })
 
@@ -2975,4 +2997,93 @@ ItemEvents.modifyTooltips(event => {
             Text.green("- Functionally a longer ranged and more efficient version of the slime ball for contraptions.")
         ])
     })
+
+    // Industrial iron
+    event.modify('create:industrial_iron_block', { shift: false }, text => {
+        text.insert(1, Text.join([
+            Text.darkGray("Hold ["),
+            Text.gray("Shift"),
+            Text.darkGray("] for Item information")
+        ]))
+    })
+    event.modify('create:industrial_iron_block', { shift: true }, text => {
+        text.insert(1, Text.join([
+            Text.darkGray("Hold ["),
+            Text.white("Shift"),
+            Text.darkGray("] for Item information")
+        ]))
+        text.add(Text.empty())
+        text.add([
+            Text.green("- Can now be used as casing for cogs, etc.")
+        ])
+    })
+
+    // Flywheel Bearing
+    event.modify('bits_n_bobs:flywheel_bearing', { shift: false }, text => {
+        text.insert(1, Text.join([
+            Text.darkGray("Hold ["),
+            Text.gray("Shift"),
+            Text.darkGray("] for Item information")
+        ]))
+    })
+    event.modify('bits_n_bobs:flywheel_bearing', { shift: true }, text => {
+        text.insert(1, Text.join([
+            Text.darkGray("Hold ["),
+            Text.white("Shift"),
+            Text.darkGray("] for Item information")
+        ]))
+        text.add(Text.empty())
+        text.add([
+            Text.green("- Stores rotational energy up to a certain point."),
+            Text.green("- Depending on the weight of the attached structure, outputs a large amount of Stress Units."),
+            Text.green("- Useful for multiplying the SU capacity of ground contraptions."),
+            Text.green("- Aesthetically approved for large water wheel builds.")
+        ])
+    })
+
+    // Industrial Belt
+    event.modify('bits_n_tracks:industrial_belt', { shift: false }, text => {
+        text.insert(1, Text.join([
+            Text.darkGray("Hold ["),
+            Text.gray("Shift"),
+            Text.darkGray("] for Item information")
+        ]))
+    })
+    event.modify('bits_n_tracks:industrial_belt', { shift: true }, text => {
+        text.insert(1, Text.join([
+            Text.darkGray("Hold ["),
+            Text.white("Shift"),
+            Text.darkGray("] for Item information")
+        ]))
+        text.add(Text.empty())
+        text.add([
+            Text.green("- Can only be used on physical or industrial flanged cogwheels."),
+            Text.green("- Attached like a chain on cogwheels and can move simulated contraptions when used as a track.")
+        ])
+    })
+
+    const BTWHLS = ['bits_n_tracks:tiny_flanged_cogwheel', 'bits_n_tracks:flanged_cogwheel', 'bits_n_tracks:medium_flanged_cogwheel', 'bits_n_tracks:large_flanged_cogwheel', 'bits_n_tracks:industrial_tiny_flanged_cogwheel', 'bits_n_tracks:industrial_flanged_cogwheel', 'bits_n_tracks:medium_industrial_flanged_cogwheel', 'bits_n_tracks:large_industrial_flanged_cogwheel']
+
+    // Track Wheels
+    for (const item of BTWHLS) {
+        event.modify(item, { shift: false }, text => {
+            text.insert(1, Text.join([
+                Text.darkGray("Hold ["),
+                Text.gray("Shift"),
+                Text.darkGray("] for Item information")
+            ]))
+        })
+        event.modify(item, { shift: true }, text => {
+            text.insert(1, Text.join([
+                Text.darkGray("Hold ["),
+                Text.white("Shift"),
+                Text.darkGray("] for Item information")
+            ]))
+            text.add(Text.empty())
+            text.add([
+                Text.green("- Can be used to transport kinetic energy using either mechanical belts or industrial belts."),
+                Text.green("- When left clicked using a Cog Alignment Lever, it can now be used as a track for moving simulated contraptions.")
+            ])
+        })
+    }
 })

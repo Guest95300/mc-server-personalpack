@@ -1,0 +1,17 @@
+filename = 'immersiveminimaps-1.2.1+1.21.1-fabric.jar'
+name = 'Immersive Minimaps'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.1+1.21.1-fabric'
+
+[download]
+hash = '01267f3e4e1bed3f496137bbf409fb63726560ef7b227f089aec8bf64db0b2f9578aa41c536a1ed25b6232cde1c7409503ad95a2ccaa34ef95c6751739c4000e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CbCN2Azx/versions/xmYFi4BH/immersiveminimaps-1.2.1%2B1.21.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'CbCN2Azx'
+version = 'xmYFi4BH'

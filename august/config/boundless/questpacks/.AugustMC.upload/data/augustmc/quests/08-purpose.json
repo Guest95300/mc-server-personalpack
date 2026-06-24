@@ -1,0 +1,13 @@
+{
+  "id": "purpose",
+  "name": "Your Purpose",
+  "icon": "minecraft:glowstone",
+  "description": "Sometimes you just feel like /iplaying Minecraft. /x\n\nTo relax? /iThat\u0027s fine/x\nTo build? /iThat\u0027s fine/x\nTo adventure? /iThat\u0027s fine/x\nTo mine? /iThat\u0027s fine/x\nTo craft? /iThat\u0027s fine/x\n\nI have one favor to ask though.\n\nOnly /lYou/x can do this.\n\n/lLeave your mark, whatever you think only /lyou can do in this world.\n\n/rPlace your/x /ename/x /gupon it./x\n\nOh right, be sure to read all the things here. There\u0027s like 3 more tabs on the left side.\nEach entry is short though! 3 sentences each.\nThat\u0027s all you need to know!",
+  "category": "main",
+  "sub-category": "0important",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false
+}

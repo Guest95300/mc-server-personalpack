@@ -1,0 +1,13 @@
+{
+  "id": "map",
+  "name": "Minimap",
+  "icon": "minecraft:filled_map",
+  "description": "You gain access to a /yminimap/x on the top right of your screen When having either a /lmap/x or /lphoto album/x anywhere in your inventory. \n\nWith the minimap active, press /g[M]/x to open the world map.\n\nRight click anywhere to name a marker visible for all players.\n\nHover over and press /g[DEL]/x to delete a marker.\n\n/iCompass, barometer, calendar also show useful overlays on your screen./x",
+  "category": "main",
+  "sub-category": "controls",
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false
+}

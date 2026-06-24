@@ -1,0 +1,13 @@
+{
+  "id": "place02",
+  "name": "Block Shapes",
+  "icon": "minecraft:spruce_stairs",
+  "description": "Hold /g[Left ALT]/x whilst holding or hovering over a block, stair, slab then scroll to /wswitch between shapes./x\n\n/rYou no longer need to craft stairs or slabs./x",
+  "category": "main",
+  "sub-category": "building",
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false
+}
