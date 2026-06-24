@@ -1713,6 +1713,11 @@ hash = "807514914aab84ab89cd72fc7d869faad725e6f26092fb59e1cb2efdc99d9bdb"
 metafile = true
 
 [[files]]
+file = "mods/obe.pw.toml"
+hash = "5ca5f76dccf5739d2caaf403fb70b66dc2ad860099058e27ffe7079600ef3e9f"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "c980534386eb78444d2cbf06552ac3c83d61b591c177111d5c4f65d65c36c6a5"
 metafile = true
